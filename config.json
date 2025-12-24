@@ -1,0 +1,9 @@
+{
+    "interval-minutes": 15,
+    "timeout-seconds": 30,
+    "websites": [
+        "arif-iqbal.com",
+        "deeerstelijn.com",
+        "google.com"
+    ]
+}
