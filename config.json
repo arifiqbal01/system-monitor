@@ -3,10 +3,11 @@
     "timeout-seconds": 3,
     "websites": [
         "https://this-domain-should-not-exist-xyz123.com/",
+        "http://www.webartsy.site/",
         "http://example.com:81",
         "https://httpstat.us/500",
         "https://httpstat.us/404",
-        "https://httpstat.us/503",
+        "http://httpstat.us/503",
         "google.com"
     ]
 }

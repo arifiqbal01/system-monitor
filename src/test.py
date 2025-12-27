@@ -1,4 +1,4 @@
 import requests
 
-response = requests.get("https://httpstat.us/500")
+response = requests.get("http://httpstat.us")
 print(f"Response Status Code: {response.status_code}")
