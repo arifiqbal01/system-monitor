@@ -1,4 +1,4 @@
-import webrequest
+from webrequest import web_request
 
 error_message = webrequest.error_message
 status_code = webrequest.status_code

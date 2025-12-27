@@ -2,10 +2,10 @@
     "interval-minutes": 1,
     "timeout-seconds": 3,
     "websites": [
-        "https://this-domain-should-not-exist-xyz123.com/",
+        "https://arif-iqbal.com/account",
         "http://www.webartsy.site/",
         "http://example.com:81",
-        "https://httpstat.us/500",
+        "http://webartsy.online/",
         "https://httpstat.us/404",
         "http://httpstat.us/503",
         "google.com"
