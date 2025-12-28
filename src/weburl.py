@@ -11,7 +11,9 @@ def web_url():
         timeout = config_data.get("timeout_seconds", 5)
         websites = config_data.get("websites", [])
     
-    valid_urls = []
+    url_pass = {"websites": [], "interval": interval, "timeout": timeout}
+    url_fail = {}
+    error_message = None
     address_info = None
     for website in websites:
         try:
@@ -23,11 +25,12 @@ def web_url():
                     web_url = parsed_url[0] + "://" + netlocation + parsed_url[2]
                 else:
                     web_url = "https://" + netlocation
-                valid_urls.append(web_url)
+                url_pass["websites"].append(web_url)
             except socket.gaierror as e:
-                print(f"Hostname name or service not known {website}")
+                error_message = "Hostname name or service not known"
+                url_fail.update({website: error_message})
         except AttributeError:
-            print("Malformed URL: ", website)
-    
-    return valid_urls, interval, timeout
+            error_message = "Malformed URL"
+            url_fail.update({website: error_message})
+    return url_pass, url_fail
 web_url()
