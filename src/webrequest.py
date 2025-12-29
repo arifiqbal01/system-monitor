@@ -8,6 +8,7 @@ def web_request(websites, interval, timeout):
     response_time = None
     status_code = None
     errror_message = None
+    is_body_degrade = None
     keywords = [
     "domain has been suspended",
     "account suspended",
@@ -34,7 +35,9 @@ def web_request(websites, interval, timeout):
             html = r.text
             for k in keywords:
                 if k in html:
-                    is_degrade = True
+                    is_body_degrade = k
+                else:
+                    is_body_degrade = None
             error_message = None
         except requests.HTTPError as e:
             status_code = None
@@ -51,7 +54,7 @@ def web_request(websites, interval, timeout):
         except requests.RequestException as e:
             status_code = None
             error_message = "An error occurred while handiling the request"
-    
-        request_data.update({website: (response_time, status_code, error_message)})
-    
+        print(website, is_body_degrade)
+        request_data.update({website: (response_time, status_code, error_message, is_body_degrade)})
+        
     return request_data
