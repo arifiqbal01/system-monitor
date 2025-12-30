@@ -30,7 +30,7 @@ def web_url():
                 error_message = "Hostname name or service not known"
                 url_fail.update({website: error_message})
         except AttributeError:
-            error_message = "Malformed URL"
+            error_message = "Invalid domain"
             url_fail.update({website: error_message})
     return url_pass, url_fail
 web_url()

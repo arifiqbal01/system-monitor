@@ -8,18 +8,28 @@ timeout = data[0]["timeout"]
 failed = data[1]
 data2 = web_request(websites, interval, timeout)
 
-def web_status(website, error_message, status_code=None, response_time=None, is_body_degrade=False):
+def web_status(website, status_code, error_message, response_time, is_body_degrade):
     status = ("DOWN", "UP", "DEGRADED", "Unknown")
-    """print(website, status_code, response_time, error_message, is_body_degrade)"""
-    return
+    web_status = {}
 
-if failed:
-    for f in failed.items():
-        website = f[0]
-        error_message = f[1]
-        web_status(website, error_message)
-else:
-    pass
+    if error_message:
+        web_status.update({website: (status[0], response_time, status_code, error_message)})
+    elif status_code and is_body_degrade or status_code in range(400, 600):
+        web_status.update({website: (status[2], response_time, status_code, error_message)})
+    elif status_code in range(200, 400) and is_body_degrade is None:
+        web_status.update({website: (status[1], response_time, status_code, error_message)})
+    else:
+        web_status.update({website: (status[3], response_time, status_code, error_message)})
+    print(web_status)
+    return web_status
+
+for f in failed.items():
+    website = f[0]
+    error_message = f[1]
+    status_code = None
+    response_time = None
+    is_body_degrade = None
+    web_status(website, status_code, error_message, response_time, is_body_degrade)
 
 for d in data2.items():
     website = d[0]

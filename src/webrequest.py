@@ -1,6 +1,4 @@
 import requests
-import time
-import datetime
 from weburl import web_url
 
 def web_request(websites, interval, timeout):
@@ -8,7 +6,8 @@ def web_request(websites, interval, timeout):
     response_time = None
     status_code = None
     errror_message = None
-    is_body_degrade = None
+    html = None
+    
     keywords = [
     "domain has been suspended",
     "account suspended",
@@ -33,28 +32,28 @@ def web_request(websites, interval, timeout):
             response_time = r.elapsed.total_seconds() * 1000
             status_code = r.status_code
             html = r.text
+            is_body_degrade = None
             for k in keywords:
-                if k in html:
+                if k in html and status_code == 200:
                     is_body_degrade = k
-                else:
-                    is_body_degrade = None
+                    break
             error_message = None
         except requests.HTTPError as e:
-            status_code = None
             error_message = "An HTTP error occurred"
         except requests.exceptions.ConnectionError as e:
-            status_code = None
             error_message = "Connection Refused Error"
         except requests.exceptions.Timeout as e:
-            status_code = None
             error_message = "Request timed out"
         except requests.exceptions.JSONDecodeError as e:
-            status_code = None
             error_message = "Couldn’t decode the text into json"
         except requests.RequestException as e:
-            status_code = None
             error_message = "An error occurred while handiling the request"
-        print(website, is_body_degrade)
+        
         request_data.update({website: (response_time, status_code, error_message, is_body_degrade)})
+        html = None
+        is_body_degrade = None
+        status_code = None
+        error_message = None
+        response_time = None
         
     return request_data
