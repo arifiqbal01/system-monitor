@@ -1,6 +1,7 @@
 import json
 from urllib.parse import urlparse
 import socket
+from weblogger import logger
 
 config = "./config.json"
 
@@ -18,6 +19,7 @@ def web_url():
     for website in websites:
         try:
             parsed_url = urlparse(website)
+            logger.info(f"{website} URL passed")
             netlocation = parsed_url[1] if not parsed_url[2] == website else website
             try:
                 address_info = socket.getaddrinfo(netlocation, None)
@@ -28,9 +30,11 @@ def web_url():
                 url_pass["websites"].append(web_url)
             except socket.gaierror as e:
                 error_message = "Hostname name or service not known"
+                logger.error(f"{website} : {e}")
                 url_fail.update({website: error_message})
-        except AttributeError:
+        except AttributeError as e:
             error_message = "Invalid domain"
+            logger.error(f"{website} : {e}")
             url_fail.update({website: error_message})
     return url_pass, url_fail
 web_url()

@@ -1,0 +1,472 @@
+2025-12-31 16:13 : ERROR : Test Error
+Watch out!
+Watch out!
+2025-12-31 16:40 : WARNING : Watch out!
+2025-12-31 16:49 : WARNING : Watch out! 22222
+2025-12-31 16:51 : WARNING : Watch out! 22222
+2025-12-31 16:56 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 16:56 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 16:56 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 16:56 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 16:56 : WARNING : Watch out! 22222
+2025-12-31 16:58 : ERROR : http://example.com:81
+Traceback (most recent call last):
+  File "/Users/admin/work/python/system-monitor/src/weburl.py", line 25, in web_url
+    address_info = socket.getaddrinfo(netlocation, None)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+2025-12-31 16:58 : ERROR : http://example.com:71
+Traceback (most recent call last):
+  File "/Users/admin/work/python/system-monitor/src/weburl.py", line 25, in web_url
+    address_info = socket.getaddrinfo(netlocation, None)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+2025-12-31 16:58 : ERROR : http://example.com:81
+Traceback (most recent call last):
+  File "/Users/admin/work/python/system-monitor/src/weburl.py", line 25, in web_url
+    address_info = socket.getaddrinfo(netlocation, None)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+2025-12-31 16:58 : ERROR : http://example.com:71
+Traceback (most recent call last):
+  File "/Users/admin/work/python/system-monitor/src/weburl.py", line 25, in web_url
+    address_info = socket.getaddrinfo(netlocation, None)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+2025-12-31 16:58 : WARNING : Watch out! 22222
+2025-12-31 16:59 : ERROR : http://example.com:81
+2025-12-31 16:59 : ERROR : http://example.com:71
+2025-12-31 16:59 : ERROR : http://example.com:81
+2025-12-31 16:59 : ERROR : http://example.com:71
+2025-12-31 16:59 : WARNING : Watch out! 22222
+2025-12-31 17:00 : ERROR : https://arif-iqbal.com/account : URL passed!
+2025-12-31 17:00 : ERROR : http://www.webartsy.site/ : URL passed!
+2025-12-31 17:00 : ERROR : http://webartsy.store/ : URL passed!
+2025-12-31 17:00 : ERROR : http://example.com:81 : URL passed!
+2025-12-31 17:00 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:00 : ERROR : http://example.com:71 : URL passed!
+2025-12-31 17:00 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:00 : ERROR : http://webartsy.online/ : URL passed!
+2025-12-31 17:00 : ERROR : https://httpstat.us/404 : URL passed!
+2025-12-31 17:00 : ERROR : http://httpstat.us/503 : URL passed!
+2025-12-31 17:00 : ERROR : google.com : URL passed!
+2025-12-31 17:00 : ERROR : https://arif-iqbal.com/account : URL passed!
+2025-12-31 17:00 : ERROR : http://www.webartsy.site/ : URL passed!
+2025-12-31 17:00 : ERROR : http://webartsy.store/ : URL passed!
+2025-12-31 17:00 : ERROR : http://example.com:81 : URL passed!
+2025-12-31 17:00 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:00 : ERROR : http://example.com:71 : URL passed!
+2025-12-31 17:00 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:00 : ERROR : http://webartsy.online/ : URL passed!
+2025-12-31 17:00 : ERROR : https://httpstat.us/404 : URL passed!
+2025-12-31 17:00 : ERROR : http://httpstat.us/503 : URL passed!
+2025-12-31 17:00 : ERROR : google.com : URL passed!
+2025-12-31 17:00 : WARNING : Watch out! 22222
+2025-12-31 17:01 : ERROR : https://arif-iqbal.com/account : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://www.webartsy.site/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://webartsy.store/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://example.com:81 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://example.com:71 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://webartsy.online/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : https://httpstat.us/404 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://httpstat.us/503 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : google.com : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : https://arif-iqbal.com/account : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://www.webartsy.site/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://webartsy.store/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://example.com:81 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://example.com:71 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://webartsy.online/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : https://httpstat.us/404 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : http://httpstat.us/503 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : ERROR : google.com : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:01 : WARNING : Watch out! 22222
+2025-12-31 17:06 : ERROR : https://arif-iqbal.com/account : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://www.webartsy.site/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://webartsy.store/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://example.com:81 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://example.com:71 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://webartsy.online/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : https://httpstat.us/404 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://httpstat.us/503 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : google.com : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : https://arif-iqbal.com/account : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://www.webartsy.site/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://webartsy.store/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://example.com:81 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://example.com:71 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://webartsy.online/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : https://httpstat.us/404 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : http://httpstat.us/503 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : ERROR : google.com : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:06 : WARNING : Watch out! 22222
+2025-12-31 17:06 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:06 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:06 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:06 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:07 : WARNING : Watch out! 22222
+2025-12-31 17:10 : ERROR : https://arif-iqbal.com/account : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://www.webartsy.site/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://webartsy.store/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://example.com:81 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://example.com:71 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://webartsy.online/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : https://httpstat.us/404 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://httpstat.us/503 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : google.com : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : https://arif-iqbal.com/account : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://www.webartsy.site/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://webartsy.store/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://example.com:81 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://example.com:71 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://webartsy.online/ : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : https://httpstat.us/404 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : http://httpstat.us/503 : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : ERROR : google.com : 'Logger' object has no attribute 'INFO'
+2025-12-31 17:10 : WARNING : Watch out! 22222
+2025-12-31 17:11 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:11 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:11 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:11 : INFO : http://example.com:81 URL passed
+2025-12-31 17:11 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:11 : INFO : http://example.com:71 URL passed
+2025-12-31 17:11 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:11 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:11 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:11 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:11 : INFO : google.com URL passed
+2025-12-31 17:11 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:11 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:11 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:11 : INFO : http://example.com:81 URL passed
+2025-12-31 17:11 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:11 : INFO : http://example.com:71 URL passed
+2025-12-31 17:11 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:11 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:11 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:11 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:11 : INFO : google.com URL passed
+2025-12-31 17:11 : WARNING : Watch out! 22222
+2025-12-31 17:17 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:17 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:17 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:17 : INFO : http://example.com:81 URL passed
+2025-12-31 17:17 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:17 : INFO : http://example.com:71 URL passed
+2025-12-31 17:17 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:17 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:17 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:17 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:17 : INFO : google.com URL passed
+2025-12-31 17:17 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:17 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:17 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:17 : INFO : http://example.com:81 URL passed
+2025-12-31 17:17 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:17 : INFO : http://example.com:71 URL passed
+2025-12-31 17:17 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:17 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:17 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:17 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:17 : INFO : google.com URL passed
+2025-12-31 17:17 : INFO : https://arif-iqbal.com/account : get request reache!
+2025-12-31 17:17 : INFO : http://www.webartsy.site/ : get request reache!
+2025-12-31 17:17 : WARNING : http://www.webartsy.site/ : k
+2025-12-31 17:17 : INFO : http://webartsy.store/ : get request reache!
+2025-12-31 17:17 : WARNING : http://webartsy.store/ : k
+2025-12-31 17:17 : INFO : http://webartsy.online/ : get request reache!
+2025-12-31 17:17 : WARNING : http://webartsy.online/ : k
+2025-12-31 17:17 : ERROR : https://httpstat.us/404 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:17 : ERROR : http://httpstat.us/503 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:17 : INFO : https://google.com : get request reache!
+2025-12-31 17:18 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:18 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:18 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:18 : INFO : http://example.com:81 URL passed
+2025-12-31 17:18 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:18 : INFO : http://example.com:71 URL passed
+2025-12-31 17:18 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:18 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:18 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:18 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:18 : INFO : google.com URL passed
+2025-12-31 17:18 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:18 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:18 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:18 : INFO : http://example.com:81 URL passed
+2025-12-31 17:18 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:18 : INFO : http://example.com:71 URL passed
+2025-12-31 17:18 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:18 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:18 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:18 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:18 : INFO : google.com URL passed
+2025-12-31 17:18 : INFO : https://arif-iqbal.com/account : Get request reached!
+2025-12-31 17:18 : INFO : http://www.webartsy.site/ : Get request reached!
+2025-12-31 17:18 : WARNING : http://www.webartsy.site/ : domain has been suspended
+2025-12-31 17:18 : INFO : http://webartsy.store/ : Get request reached!
+2025-12-31 17:18 : WARNING : http://webartsy.store/ : domain has been suspended
+2025-12-31 17:18 : INFO : http://webartsy.online/ : Get request reached!
+2025-12-31 17:18 : WARNING : http://webartsy.online/ : domain has been suspended
+2025-12-31 17:18 : ERROR : https://httpstat.us/404 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:18 : ERROR : http://httpstat.us/503 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:18 : INFO : https://google.com : Get request reached!
+2025-12-31 17:34 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:34 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:34 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:34 : INFO : http://example.com:81 URL passed
+2025-12-31 17:34 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:34 : INFO : http://example.com:71 URL passed
+2025-12-31 17:34 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:34 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:34 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:34 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:34 : INFO : google.com URL passed
+2025-12-31 17:34 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:34 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:34 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:34 : INFO : http://example.com:81 URL passed
+2025-12-31 17:34 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:34 : INFO : http://example.com:71 URL passed
+2025-12-31 17:34 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:34 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:34 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:34 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:34 : INFO : google.com URL passed
+2025-12-31 17:34 : INFO : https://arif-iqbal.com/account : Get request reached!
+2025-12-31 17:34 : INFO : http://www.webartsy.site/ : Get request reached!
+2025-12-31 17:34 : WARNING : http://www.webartsy.site/ : domain has been suspended
+2025-12-31 17:34 : INFO : http://webartsy.store/ : Get request reached!
+2025-12-31 17:34 : WARNING : http://webartsy.store/ : domain has been suspended
+2025-12-31 17:34 : INFO : http://webartsy.online/ : Get request reached!
+2025-12-31 17:34 : WARNING : http://webartsy.online/ : domain has been suspended
+2025-12-31 17:34 : ERROR : https://httpstat.us/404 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:34 : ERROR : http://httpstat.us/503 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:34 : INFO : https://google.com : Get request reached!
+2025-12-31 17:36 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:36 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:36 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:36 : INFO : http://example.com:81 URL passed
+2025-12-31 17:36 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:36 : INFO : http://example.com:71 URL passed
+2025-12-31 17:36 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:36 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:36 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:36 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:36 : INFO : google.com URL passed
+2025-12-31 17:36 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:36 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:36 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:36 : INFO : http://example.com:81 URL passed
+2025-12-31 17:36 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:36 : INFO : http://example.com:71 URL passed
+2025-12-31 17:36 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:36 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:36 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:36 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:36 : INFO : google.com URL passed
+2025-12-31 17:36 : INFO : https://arif-iqbal.com/account : Get request reached!
+2025-12-31 17:36 : INFO : http://www.webartsy.site/ : Get request reached!
+2025-12-31 17:36 : WARNING : http://www.webartsy.site/ : domain has been suspended
+2025-12-31 17:36 : INFO : http://webartsy.store/ : Get request reached!
+2025-12-31 17:36 : WARNING : http://webartsy.store/ : domain has been suspended
+2025-12-31 17:36 : INFO : http://webartsy.online/ : Get request reached!
+2025-12-31 17:36 : WARNING : http://webartsy.online/ : domain has been suspended
+2025-12-31 17:36 : ERROR : https://httpstat.us/404 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:36 : ERROR : http://httpstat.us/503 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:36 : INFO : https://google.com : Get request reached!
+2025-12-31 17:36 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:36 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:36 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:36 : INFO : http://example.com:81 URL passed
+2025-12-31 17:36 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:36 : INFO : http://example.com:71 URL passed
+2025-12-31 17:36 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:36 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:36 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:36 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:36 : INFO : google.com URL passed
+2025-12-31 17:36 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:36 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:36 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:36 : INFO : http://example.com:81 URL passed
+2025-12-31 17:36 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:36 : INFO : http://example.com:71 URL passed
+2025-12-31 17:36 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:36 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:36 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:36 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:36 : INFO : google.com URL passed
+2025-12-31 17:36 : INFO : https://arif-iqbal.com/account : Get request reached!
+2025-12-31 17:36 : INFO : http://www.webartsy.site/ : Get request reached!
+2025-12-31 17:36 : WARNING : http://www.webartsy.site/ : domain has been suspended
+2025-12-31 17:36 : INFO : http://webartsy.store/ : Get request reached!
+2025-12-31 17:36 : WARNING : http://webartsy.store/ : domain has been suspended
+2025-12-31 17:36 : INFO : http://webartsy.online/ : Get request reached!
+2025-12-31 17:36 : WARNING : http://webartsy.online/ : domain has been suspended
+2025-12-31 17:36 : ERROR : https://httpstat.us/404 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:36 : ERROR : http://httpstat.us/503 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:36 : INFO : https://google.com : Get request reached!
+2025-12-31 17:36 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:36 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:37 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:37 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:37 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:37 : INFO : http://example.com:81 URL passed
+2025-12-31 17:37 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:37 : INFO : http://example.com:71 URL passed
+2025-12-31 17:37 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:37 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:37 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:37 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:37 : INFO : google.com URL passed
+2025-12-31 17:37 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:37 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:37 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:37 : INFO : http://example.com:81 URL passed
+2025-12-31 17:37 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:37 : INFO : http://example.com:71 URL passed
+2025-12-31 17:37 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:37 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:37 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:37 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:37 : INFO : google.com URL passed
+2025-12-31 17:37 : INFO : https://arif-iqbal.com/account : Get request reached!
+2025-12-31 17:37 : INFO : http://www.webartsy.site/ : Get request reached!
+2025-12-31 17:37 : WARNING : http://www.webartsy.site/ : domain has been suspended
+2025-12-31 17:37 : INFO : http://webartsy.store/ : Get request reached!
+2025-12-31 17:37 : WARNING : http://webartsy.store/ : domain has been suspended
+2025-12-31 17:37 : INFO : http://webartsy.online/ : Get request reached!
+2025-12-31 17:37 : WARNING : http://webartsy.online/ : domain has been suspended
+2025-12-31 17:37 : ERROR : https://httpstat.us/404 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:37 : ERROR : http://httpstat.us/503 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:37 : INFO : https://google.com : Get request reached!
+2025-12-31 17:37 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:37 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:38 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:38 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:38 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:38 : INFO : http://example.com:81 URL passed
+2025-12-31 17:38 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:38 : INFO : http://example.com:71 URL passed
+2025-12-31 17:38 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:38 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:38 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:38 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:38 : INFO : google.com URL passed
+2025-12-31 17:38 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:38 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:38 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:38 : INFO : http://example.com:81 URL passed
+2025-12-31 17:38 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:38 : INFO : http://example.com:71 URL passed
+2025-12-31 17:38 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:38 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:38 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:38 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:38 : INFO : google.com URL passed
+2025-12-31 17:38 : INFO : https://arif-iqbal.com/account : Get request reached!
+2025-12-31 17:38 : INFO : http://www.webartsy.site/ : Get request reached!
+2025-12-31 17:38 : WARNING : http://www.webartsy.site/ : domain has been suspended
+2025-12-31 17:38 : INFO : http://webartsy.store/ : Get request reached!
+2025-12-31 17:38 : WARNING : http://webartsy.store/ : domain has been suspended
+2025-12-31 17:38 : INFO : http://webartsy.online/ : Get request reached!
+2025-12-31 17:38 : WARNING : http://webartsy.online/ : domain has been suspended
+2025-12-31 17:38 : ERROR : https://httpstat.us/404 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:38 : ERROR : http://httpstat.us/503 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:38 : INFO : https://google.com : Get request reached!
+2025-12-31 17:38 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:38 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:38 : WARNING : DEGRADED : 522.0930000000001 : 404 : None
+2025-12-31 17:38 : WARNING : DEGRADED : 272.659 : 200 : None
+2025-12-31 17:38 : WARNING : DEGRADED : 281.007 : 200 : None
+2025-12-31 17:38 : WARNING : DEGRADED : 281.827 : 200 : None
+2025-12-31 17:38 : ERROR : DOWN : None : None : Connection Refused Error
+2025-12-31 17:38 : ERROR : DOWN : None : None : Connection Refused Error
+2025-12-31 17:38 : INFO : UP : 628.2710000000001 : 200 : None
+2025-12-31 17:41 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:41 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:41 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:41 : INFO : http://example.com:81 URL passed
+2025-12-31 17:41 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:41 : INFO : http://example.com:71 URL passed
+2025-12-31 17:41 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:41 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:41 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:41 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:41 : INFO : google.com URL passed
+2025-12-31 17:41 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:41 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:41 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:41 : INFO : http://example.com:81 URL passed
+2025-12-31 17:41 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:41 : INFO : http://example.com:71 URL passed
+2025-12-31 17:41 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:41 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:41 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:41 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:41 : INFO : google.com URL passed
+2025-12-31 17:41 : INFO : https://arif-iqbal.com/account : Get request reached!
+2025-12-31 17:41 : INFO : http://www.webartsy.site/ : Get request reached!
+2025-12-31 17:41 : WARNING : http://www.webartsy.site/ : domain has been suspended
+2025-12-31 17:41 : INFO : http://webartsy.store/ : Get request reached!
+2025-12-31 17:41 : WARNING : http://webartsy.store/ : domain has been suspended
+2025-12-31 17:41 : INFO : http://webartsy.online/ : Get request reached!
+2025-12-31 17:41 : WARNING : http://webartsy.online/ : domain has been suspended
+2025-12-31 17:41 : ERROR : https://httpstat.us/404 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:41 : ERROR : http://httpstat.us/503 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:41 : INFO : https://google.com : Get request reached!
+2025-12-31 17:41 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:41 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:41 : WARNING : DEGRADED : 522.362 : 404 : None
+2025-12-31 17:41 : WARNING : DEGRADED : 282.844 : 200 : domain has been suspended
+2025-12-31 17:41 : WARNING : DEGRADED : 298.277 : 200 : domain has been suspended
+2025-12-31 17:41 : WARNING : DEGRADED : 282.242 : 200 : domain has been suspended
+2025-12-31 17:41 : ERROR : DOWN : Connection Refused Error
+2025-12-31 17:41 : ERROR : DOWN : Connection Refused Error
+2025-12-31 17:41 : INFO : UP : 658.378 : 200
+2025-12-31 17:43 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:43 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:43 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:43 : INFO : http://example.com:81 URL passed
+2025-12-31 17:43 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:43 : INFO : http://example.com:71 URL passed
+2025-12-31 17:43 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:43 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:43 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:43 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:43 : INFO : google.com URL passed
+2025-12-31 17:43 : INFO : https://arif-iqbal.com/account URL passed
+2025-12-31 17:43 : INFO : http://www.webartsy.site/ URL passed
+2025-12-31 17:43 : INFO : http://webartsy.store/ URL passed
+2025-12-31 17:43 : INFO : http://example.com:81 URL passed
+2025-12-31 17:43 : ERROR : http://example.com:81 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:43 : INFO : http://example.com:71 URL passed
+2025-12-31 17:43 : ERROR : http://example.com:71 : [Errno 8] nodename nor servname provided, or not known
+2025-12-31 17:43 : INFO : http://webartsy.online/ URL passed
+2025-12-31 17:43 : INFO : https://httpstat.us/404 URL passed
+2025-12-31 17:43 : INFO : http://httpstat.us/503 URL passed
+2025-12-31 17:43 : INFO : google.com URL passed
+2025-12-31 17:43 : INFO : https://arif-iqbal.com/account : Get request reached!
+2025-12-31 17:43 : INFO : http://www.webartsy.site/ : Get request reached!
+2025-12-31 17:43 : WARNING : http://www.webartsy.site/ : domain has been suspended
+2025-12-31 17:43 : INFO : http://webartsy.store/ : Get request reached!
+2025-12-31 17:43 : WARNING : http://webartsy.store/ : domain has been suspended
+2025-12-31 17:43 : INFO : http://webartsy.online/ : Get request reached!
+2025-12-31 17:43 : WARNING : http://webartsy.online/ : domain has been suspended
+2025-12-31 17:43 : ERROR : https://httpstat.us/404 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:43 : ERROR : http://httpstat.us/503 : ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-31 17:43 : INFO : https://google.com : Get request reached!
+2025-12-31 17:43 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:43 : ERROR : DOWN : Hostname name or service not known
+2025-12-31 17:43 : WARNING : https://arif-iqbal.com/account : DEGRADED : 526.691 : 404 : None
+2025-12-31 17:43 : WARNING : http://www.webartsy.site/ : DEGRADED : 272.90500000000003 : 200 : domain has been suspended
+2025-12-31 17:43 : WARNING : http://webartsy.store/ : DEGRADED : 270.329 : 200 : domain has been suspended
+2025-12-31 17:43 : WARNING : http://webartsy.online/ : DEGRADED : 334.726 : 200 : domain has been suspended
+2025-12-31 17:43 : ERROR : https://httpstat.us/404 : DOWN : Connection Refused Error
+2025-12-31 17:43 : ERROR : http://httpstat.us/503 : DOWN : Connection Refused Error
+2025-12-31 17:43 : INFO : https://google.com : UP : 650.338 : 200
