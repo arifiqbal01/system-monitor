@@ -1,21 +1,19 @@
-def analyze_log(filePath):
+def analyze_log(logfile):
   summary = {"INFO": 0, "ERROR": 0, "WARNING": 0}
   errors = []
   hourly = {}
 
-  with open(filePath) as file:
+  with open(logfile) as file:
     for line in file:
-      
       if not line:
         continue
-      
       lines_x = line.strip()
-      parts = lines_x.split(maxsplit=3)
-
-      if len(parts) < 4:
+      parts = lines_x.split('|')
+      if len(parts) < 8:
         continue
-        
-      date, time, log_level, message = parts
+      
+      date, time, log_level, website, website_status, response_time, status_code, error_message = parts
+      print(parts)
       hour = time[:2]
 
       if log_level in summary:
@@ -26,9 +24,9 @@ def analyze_log(filePath):
 
       hourly[hour] = hourly.get(hour, 0) + 1
 
-  new_file_path = "./report.txt"
-
-  with open(new_file_path, 'w') as file:
+  report_file = "./reports/report.txt"
+  print(summary, errors, hourly)
+  with open(report_file, 'w') as file:
 
     file.write("Log Summary")
     file.write("\n")
@@ -45,7 +43,3 @@ def analyze_log(filePath):
       file.write(f"- {e} \n")
 
     return
-
-
-file_path = "logs/monitor.log"
-analyze_log(file_path)
