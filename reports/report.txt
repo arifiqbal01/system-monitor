@@ -1,8 +1,9 @@
 Log Summary
 ----------------------
 
-INFO: 0 
-ERROR: 0 
-WARNING: 0 
+UP: {'total': 0, 'websites': []} 
+DOWN: {'total': 0, 'websites': []} 
+DEGRADED: {'total': 0, 'websites': []} 
+UNKNOWN: {'total': 0, 'websites': []} 
 
-Error Details 
+Websites UP 
