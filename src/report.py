@@ -40,23 +40,39 @@ def analyze_log(logfile):
       if log_level == "INFO":
         if website_status  == "UP":
           websites_summary["UP"]["total"] += 1
-          websites_summary["UP"]["websites"].append(website)
+          websites_summary["UP"]["websites"].append({
+            "website": website,
+            "response_time": response_time,
+            "status_code": status_code
+          })
         elif website_status  == "DOWN":
           websites_summary["DOWN"]["total"] += 1
-          websites_summary["DOWN"]["websites"].append(website)
+          websites_summary["DOWN"]["websites"].append({
+            "website": website, 
+            "response_time": response_time, 
+            "status_code": status_code, 
+            "error_message": error_message})
         elif website_status  == "DEGRADED":
           websites_summary["DEGRADED"]["total"] += 1
-          websites_summary["DEGRADED"]["websites"].append(website)
+          websites_summary["DEGRADED"]["websites"].append({
+            "website": website,
+            "response_time": response_time,
+            "status_code": status_code,
+            "error_message": error_message
+          })
         else:
           websites_summary["UNKNOWN"]["total"] += 1
-          websites_summary["UNKNOWN"]["websites"].append(website)
+          websites_summary["UNKNOWN"]["websites"].append({
+            "website": website,
+            "response_time": response_time,
+            "status_code": status_code,
+            "error_message": error_message
+          })
       elif log_level == "ERROR":
         errors.append({
           "website": website,
           "error_message": error_message
         })
-    print("log:")
-    print(log_lines)
     return websites_summary, log_lines
   
   try:
@@ -87,7 +103,57 @@ def analyze_log(logfile):
   except FileNotFoundError as e:
     logger.error(f"Log file {logfile} not found. Creating a new one.", exc_info=e)
 
-  print("Websites Summary:")
-  print(websites_summary)
-  
+  report_file = "./reports/report.txt"
+  with open(report_file, 'w') as file:
+    file.write("Log Summary")
+    file.write("\n")
+    file.write("----------------------")
+    file.write("\n")
+    file.write("\n")
+
+    for key, value in websites_summary.items():
+      file.write(f"{key}: {value['total']} \n")
+    
+    if websites_summary['UP']['total'] == 0:
+      file.write("\n")
+    else:
+      file.write("\n")
+      file.write("Websites UP\n")
+      for websites in websites_summary["UP"]["websites"]:
+        file.write(f"- {websites['website']} \n")
+    
+    if websites_summary['DOWN']['total'] == 0:
+      file.write("\n")
+    else:
+      file.write("\n")
+      file.write("Websites DOWN\n")
+      for websites in websites_summary["DOWN"]["websites"]:
+        file.write(f"- {websites['website']} error: {websites.get('error_message', 'None')} \n")
+    
+    if websites_summary['DEGRADED']['total'] == 0:
+      file.write("\n")
+    else:
+      file.write("\n")
+      file.write("Websites DEGRADED\n")
+      for websites in websites_summary["DEGRADED"]["websites"]:
+        file.write(f"- {websites['website']} error: {websites.get('error_message', 'None')} \n")
+
+    if websites_summary['UNKNOWN']['total'] == 0:
+      file.write("\n")
+    else:
+      file.write("\n")
+      file.write("Websites UNKNOWN\n")
+      for websites in websites_summary["UNKNOWN"]["websites"]:
+        file.write(f"- {websites['website']} error: {websites.get('error_message', 'None')} \n")
+    
+    if not errors:
+      file.write("\n")
+      file.write("No system errors found. \n")
+      file.write("\n")
+    else:
+      file.write("\n")
+      file.write("System Errors \n")
+      for w, e in errors.items():
+        if e:
+          file.write(f"- {w} : {e} \n")
   return

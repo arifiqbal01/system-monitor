@@ -42,34 +42,15 @@ line_x = line.strip()
           websites_summary["UNKNOWN"]["websites"].append(website)
           errors.update({website: error_message})
 
-
-  
-"""
-
-  
-
-  
-
-  report_file = "./reports/report.txt"
-  with open(report_file, 'w') as file:
-
-    file.write("Log Summary")
-    file.write("\n")
-    file.write("----------------------")
-    file.write("\n")
-    file.write("\n")
-
-    for key, value in websites_summary.items():
-      file.write(f"{key}: {value} \n")
-
-    file.write("\n")
-    file.write("Websites UP \n")
-    for w in websites_up:
-        file.write(f"- {w} \n")
-
-    file.write("\n")
-    file.write("Websites with Errors \n")
-    for w, e in errors.items():
-      if e:
-        file.write(f"- {w} : {e} \n")
-    """
+{'UP': {'total': 1, 'websites': {'website': 'https://google.com', 'response_time': '481ms', 'status_code': '200'}}, 
+'DOWN': {'total': 4, 'websites': [
+  {'website': 'http://example.com:81', 'response_time': 'None', 'status_code': 'None', 'error_message': 'Hostname name or service not known'}, 
+  {'website': 'http://example.com:71', 'response_time': 'None', 'status_code': 'None', 'error_message': 'Hostname name or service not known'}, 
+  {'website': 'https://httpstat.us/404', 'response_time': 'None', 'status_code': 'None', 'error_message': 'Connection Refused Error'}, 
+  {'website': 'http://httpstat.us/503', 'response_time': 'None', 'status_code': 'None', 'error_message': 'Connection Refused Error'}]}, 
+'DEGRADED': {'total': 4, 'websites': [
+  {'website': 'https://arif-iqbal.com/account', 'response_time': '532ms', 'status_code': '404', 'error_message': 'None'}, 
+  {'website': 'http://www.webartsy.site/', 'response_time': '295ms', 'status_code': '200', 'error_message': 'domain has been suspended'}, 
+  {'website': 'http://webartsy.store/', 'response_time': '281ms', 'status_code': '200', 'error_message': 'domain has been suspended'}, 
+  {'website': 'http://webartsy.online/', 'response_time': '288ms', 'status_code': '200', 'error_message': 'domain has been suspended'}]}, 
+'UNKNOWN': {'total': 0, 'websites': []}}

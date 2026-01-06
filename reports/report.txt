@@ -1,9 +1,26 @@
 Log Summary
 ----------------------
 
-UP: {'total': 0, 'websites': []} 
-DOWN: {'total': 0, 'websites': []} 
-DEGRADED: {'total': 0, 'websites': []} 
-UNKNOWN: {'total': 0, 'websites': []} 
+UP: 2 
+DOWN: 4 
+DEGRADED: 3 
+UNKNOWN: 0 
 
-Websites UP 
+Websites UP
+- https://arif-iqbal.com/ 
+- https://google.com 
+
+Websites DOWN
+- http://example.com:81 error: Hostname name or service not known 
+- http://example.com:71 error: Hostname name or service not known 
+- https://httpstat.us/404 error: Connection Refused Error 
+- http://httpstat.us/503 error: Connection Refused Error 
+
+Websites DEGRADED
+- http://www.webartsy.site/ error: domain has been suspended 
+- http://webartsy.store/ error: domain has been suspended 
+- http://webartsy.online/ error: domain has been suspended 
+
+
+No errors found. 
+

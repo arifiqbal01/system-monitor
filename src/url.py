@@ -6,6 +6,7 @@ from logger import logger
 def web_url(website):
     error_message = None
     address_info = None
+    retry = 3
     try:
         parsed_url = urlparse(website)
         netlocation = parsed_url[1] if not parsed_url[2] == website else website
@@ -19,6 +20,6 @@ def web_url(website):
             error_message = "Hostname name or service not known"
     except AttributeError as e:
         error_message = "Invalid domain"
-    
+
     return website, error_message
 
