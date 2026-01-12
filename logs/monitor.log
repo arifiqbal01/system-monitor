@@ -466,3 +466,1006 @@
 2026-01-06 | 12:35 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
 2026-01-06 | 12:35 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
 2026-01-06 | 12:35 | INFO | https://google.com | UP | 655ms | 200 | None
+2026-01-07 | 11:30 | INFO | https://arif-iqbal.com/ | UP | 532ms | 200 | None
+2026-01-07 | 11:30 | INFO | http://www.webartsy.site/ | DEGRADED | 339ms | 200 | domain has been suspended
+2026-01-07 | 11:30 | INFO | http://webartsy.store/ | DEGRADED | 286ms | 200 | domain has been suspended
+2026-01-07 | 11:30 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:30 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:30 | INFO | http://webartsy.online/ | DEGRADED | 305ms | 200 | domain has been suspended
+2026-01-07 | 11:30 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:30 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:30 | INFO | https://google.com | UP | 1540ms | 200 | None
+2026-01-07 | 11:35 | INFO | https://arif-iqbal.com/ | UP | 580ms | 200 | None
+2026-01-07 | 11:35 | INFO | http://www.webartsy.site/ | DEGRADED | 284ms | 200 | domain has been suspended
+2026-01-07 | 11:35 | INFO | http://webartsy.store/ | DEGRADED | 356ms | 200 | domain has been suspended
+2026-01-07 | 11:35 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:35 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:35 | INFO | http://webartsy.online/ | DEGRADED | 292ms | 200 | domain has been suspended
+2026-01-07 | 11:35 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:35 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:35 | INFO | https://google.com | UP | 647ms | 200 | None
+2026-01-07 | 11:39 | INFO | https://arif-iqbal.com/ | UP | 524ms | 200 | None
+2026-01-07 | 11:39 | INFO | http://www.webartsy.site/ | DEGRADED | 300ms | 200 | domain has been suspended
+2026-01-07 | 11:39 | INFO | http://webartsy.store/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-07 | 11:39 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:39 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:39 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:39 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:39 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:39 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:39 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:39 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:39 | INFO | http://webartsy.online/ | DEGRADED | 317ms | 200 | domain has been suspended
+2026-01-07 | 11:39 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:39 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:39 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:39 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:39 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:39 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:39 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:39 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:39 | INFO | https://google.com | UP | 651ms | 200 | None
+2026-01-07 | 11:41 | INFO | https://arif-iqbal.com/ | UP | 552ms | 200 | None
+2026-01-07 | 11:41 | INFO | http://www.webartsy.site/ | DEGRADED | 287ms | 200 | domain has been suspended
+2026-01-07 | 11:41 | INFO | http://webartsy.store/ | DEGRADED | 301ms | 200 | domain has been suspended
+2026-01-07 | 11:41 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:41 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:41 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:41 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:41 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:41 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:41 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:41 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:41 | INFO | http://webartsy.online/ | DEGRADED | 290ms | 200 | domain has been suspended
+2026-01-07 | 11:41 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:41 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:41 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:41 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:41 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:41 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:41 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:41 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:41 | INFO | https://google.com | UP | 1527ms | 200 | None
+2026-01-07 | 11:48 | INFO | https://arif-iqbal.com/ | UP | 522ms | 200 | None
+2026-01-07 | 11:48 | INFO | http://www.webartsy.site/ | DEGRADED | 296ms | 200 | domain has been suspended
+2026-01-07 | 11:48 | INFO | http://webartsy.store/ | DEGRADED | 298ms | 200 | domain has been suspended
+2026-01-07 | 11:48 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:48 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:48 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:48 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:48 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:48 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:48 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:48 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:48 | INFO | http://webartsy.online/ | DEGRADED | 284ms | 200 | domain has been suspended
+2026-01-07 | 11:48 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:48 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:48 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:48 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:48 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:48 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:48 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:48 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:48 | INFO | https://google.com | UP | 626ms | 200 | None
+2026-01-07 | 11:50 | INFO | https://arif-iqbal.com/ | UP | 519ms | 200 | None
+2026-01-07 | 11:50 | INFO | http://www.webartsy.site/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-07 | 11:50 | INFO | http://webartsy.store/ | DEGRADED | 342ms | 200 | domain has been suspended
+2026-01-07 | 11:50 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:50 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:50 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:50 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:50 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:50 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:50 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:50 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:50 | INFO | http://webartsy.online/ | DEGRADED | 283ms | 200 | domain has been suspended
+2026-01-07 | 11:50 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:50 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:50 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:50 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:50 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:50 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:50 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:50 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:50 | INFO | https://google.com | UP | 617ms | 200 | None
+2026-01-07 | 11:55 | INFO | https://arif-iqbal.com/ | UP | 547ms | 200 | None
+2026-01-07 | 11:55 | INFO | http://www.webartsy.site/ | DEGRADED | 283ms | 200 | domain has been suspended
+2026-01-07 | 11:55 | INFO | http://webartsy.store/ | DEGRADED | 271ms | 200 | domain has been suspended
+2026-01-07 | 11:55 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:55 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:55 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:55 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:55 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:55 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:55 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:55 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:55 | INFO | http://webartsy.online/ | DEGRADED | 284ms | 200 | domain has been suspended
+2026-01-07 | 11:55 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:55 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:55 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:55 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:55 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:55 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:55 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:55 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:55 | INFO | https://google.com | UP | 623ms | 200 | None
+2026-01-07 | 11:57 | INFO | https://arif-iqbal.com/ | UP | 525ms | 200 | None
+2026-01-07 | 11:57 | INFO | http://www.webartsy.site/ | DEGRADED | 308ms | 200 | domain has been suspended
+2026-01-07 | 11:57 | INFO | http://webartsy.store/ | DEGRADED | 523ms | 200 | domain has been suspended
+2026-01-07 | 11:57 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:57 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:57 | WARNING | Retrying http://example.com:81
+2026-01-07 | 11:57 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:57 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:57 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:57 | WARNING | Retrying http://example.com:71
+2026-01-07 | 11:57 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 11:57 | INFO | http://webartsy.online/ | DEGRADED | 456ms | 200 | domain has been suspended
+2026-01-07 | 11:57 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:57 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:57 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 11:57 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:57 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:57 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:57 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 11:57 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 11:57 | INFO | https://google.com | UP | 916ms | 200 | None
+2026-01-07 | 12:00 | INFO | https://arif-iqbal.com/ | UP | 534ms | 200 | None
+2026-01-07 | 12:00 | INFO | http://www.webartsy.site/ | DEGRADED | 284ms | 200 | domain has been suspended
+2026-01-07 | 12:00 | INFO | http://webartsy.store/ | DEGRADED | 284ms | 200 | domain has been suspended
+2026-01-07 | 12:00 | WARNING | Retrying http://example.com:81
+2026-01-07 | 12:00 | WARNING | Retrying http://example.com:81
+2026-01-07 | 12:00 | WARNING | Retrying http://example.com:81
+2026-01-07 | 12:00 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 12:00 | WARNING | Retrying http://example.com:71
+2026-01-07 | 12:00 | WARNING | Retrying http://example.com:71
+2026-01-07 | 12:00 | WARNING | Retrying http://example.com:71
+2026-01-07 | 12:00 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-07 | 12:00 | INFO | http://webartsy.online/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-07 | 12:00 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 12:00 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 12:00 | WARNING | Retrying https://httpstat.us/404
+2026-01-07 | 12:00 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 12:00 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 12:00 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 12:00 | WARNING | Retrying http://httpstat.us/503
+2026-01-07 | 12:00 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-07 | 12:00 | INFO | https://google.com | UP | 612ms | 200 | None
+2026-01-08 | 11:25 | INFO | https://arif-iqbal.com/ | UP | 572ms | 200 | None
+2026-01-08 | 11:25 | INFO | http://www.webartsy.site/ | DEGRADED | 311ms | 200 | domain has been suspended
+2026-01-08 | 11:25 | INFO | http://webartsy.store/ | DEGRADED | 314ms | 200 | domain has been suspended
+2026-01-08 | 11:25 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:25 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:25 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:25 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 11:25 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:25 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:25 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:25 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 11:25 | INFO | http://webartsy.online/ | DEGRADED | 292ms | 200 | domain has been suspended
+2026-01-08 | 11:25 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:25 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:25 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:25 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 11:25 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:25 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:25 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:25 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 11:25 | INFO | https://google.com | UP | 451ms | 200 | None
+2026-01-08 | 11:32 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:32 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:32 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:32 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:32 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:32 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:32 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:32 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:32 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:32 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:32 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:32 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:36 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:36 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:36 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:36 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:36 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:36 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:36 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:36 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:36 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:36 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:36 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:36 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:37 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:37 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:37 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:37 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:37 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:37 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:37 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:37 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:37 | WARNING | Retrying https://httpstat.us/404
+2026-01-08 | 11:37 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:37 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:37 | WARNING | Retrying http://httpstat.us/503
+2026-01-08 | 11:39 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:39 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:39 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:39 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:39 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:39 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:39 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:39 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:39 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:39 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:39 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:39 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:51 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:51 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:51 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:51 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:51 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:51 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:51 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:52 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:52 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:52 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:52 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:52 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:53 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:53 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:53 | WARNING | Retrying http://example.com:81
+2026-01-08 | 11:53 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:53 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:53 | WARNING | Retrying http://example.com:71
+2026-01-08 | 11:53 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:53 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:53 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:53 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:53 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:53 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:54 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:54 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:54 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:54 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:54 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:54 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:54 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:54 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:54 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:54 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:54 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:54 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:55 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:55 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:55 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:55 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:55 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:55 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:55 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:55 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:55 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:55 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:55 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:55 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:56 | INFO | https://arif-iqbal.com/ | UP | 572ms | 200 | None
+2026-01-08 | 11:56 | INFO | http://www.webartsy.site/ | DEGRADED | 277ms | 200 | domain has been suspended
+2026-01-08 | 11:56 | INFO | http://webartsy.store/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-08 | 11:56 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:56 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 11:56 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:56 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 11:56 | INFO | http://webartsy.online/ | DEGRADED | 280ms | 200 | domain has been suspended
+2026-01-08 | 11:56 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:56 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:56 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:56 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 11:56 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:56 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 11:56 | INFO | https://google.com | UP | 649ms | 200 | None
+2026-01-08 | 11:56 | INFO | https://arif-iqbal.com/ | UP | 544ms | 200 | None
+2026-01-08 | 11:56 | INFO | http://www.webartsy.site/ | DEGRADED | 285ms | 200 | domain has been suspended
+2026-01-08 | 11:56 | INFO | http://webartsy.store/ | DEGRADED | 300ms | 200 | domain has been suspended
+2026-01-08 | 11:56 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:56 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 11:56 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:56 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:56 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 11:56 | INFO | http://webartsy.online/ | DEGRADED | 288ms | 200 | domain has been suspended
+2026-01-08 | 11:56 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:56 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:57 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:57 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 11:57 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:57 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:57 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:57 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 11:57 | INFO | https://google.com | UP | 656ms | 200 | None
+2026-01-08 | 11:59 | INFO | https://arif-iqbal.com/ | UP | 536ms | 200 | None
+2026-01-08 | 11:59 | INFO | http://www.webartsy.site/ | DEGRADED | 296ms | 200 | domain has been suspended
+2026-01-08 | 11:59 | INFO | http://webartsy.store/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-08 | 11:59 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:59 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:59 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 11:59 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 11:59 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:59 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:59 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 11:59 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 11:59 | INFO | http://webartsy.online/ | DEGRADED | 297ms | 200 | domain has been suspended
+2026-01-08 | 11:59 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:59 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:59 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 11:59 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 11:59 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:59 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:59 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 11:59 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 11:59 | INFO | https://google.com | UP | 653ms | 200 | None
+2026-01-08 | 12:02 | INFO | https://arif-iqbal.com/ | UP | 536ms | 200 | None
+2026-01-08 | 12:02 | INFO | http://www.webartsy.site/ | DEGRADED | 296ms | 200 | domain has been suspended
+2026-01-08 | 12:02 | INFO | http://webartsy.store/ | DEGRADED | 275ms | 200 | domain has been suspended
+2026-01-08 | 12:02 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:02 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:02 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:02 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:02 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:02 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:02 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:02 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:02 | INFO | http://webartsy.online/ | DEGRADED | 289ms | 200 | domain has been suspended
+2026-01-08 | 12:02 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:02 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:02 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:02 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:02 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:02 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:02 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:02 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:02 | INFO | https://google.com | UP | 655ms | 200 | None
+2026-01-08 | 12:02 | WARNING | Retrying http://example.com:81 | list index out of range
+2026-01-08 | 12:05 | INFO | https://arif-iqbal.com/ | UP | 537ms | 200 | None
+2026-01-08 | 12:05 | INFO | http://www.webartsy.site/ | DEGRADED | 298ms | 200 | domain has been suspended
+2026-01-08 | 12:05 | INFO | http://webartsy.store/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:05 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:05 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:05 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:05 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:05 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:05 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:05 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:05 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:05 | INFO | http://webartsy.online/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:05 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:05 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:05 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:05 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:05 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:05 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:05 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:05 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:05 | INFO | https://google.com | UP | 620ms | 200 | None
+2026-01-08 | 12:05 | WARNING | Retrying http://example.com:81 | list index out of range
+2026-01-08 | 12:05 | WARNING | Retrying http://example.com:81 | local variable 'message' referenced before assignment
+2026-01-08 | 12:05 | WARNING | Retrying http://example.com:71 | list index out of range
+2026-01-08 | 12:05 | WARNING | Retrying http://example.com:71 | local variable 'message' referenced before assignment
+2026-01-08 | 12:05 | WARNING | Retrying http://example.com:81 | list index out of range
+2026-01-08 | 12:05 | WARNING | Retrying http://example.com:71 | list index out of range
+2026-01-08 | 12:09 | INFO | https://arif-iqbal.com/ | UP | 535ms | 200 | None
+2026-01-08 | 12:09 | INFO | http://www.webartsy.site/ | DEGRADED | 287ms | 200 | domain has been suspended
+2026-01-08 | 12:09 | INFO | http://webartsy.store/ | DEGRADED | 284ms | 200 | domain has been suspended
+2026-01-08 | 12:09 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:09 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:09 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:09 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:09 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:09 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:09 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:09 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:09 | INFO | http://webartsy.online/ | DEGRADED | 278ms | 200 | domain has been suspended
+2026-01-08 | 12:09 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:09 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:09 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:09 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:09 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:09 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:09 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:09 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:09 | INFO | https://google.com | UP | 615ms | 200 | None
+2026-01-08 | 12:10 | INFO | https://arif-iqbal.com/ | UP | 555ms | 200 | None
+2026-01-08 | 12:10 | INFO | http://www.webartsy.site/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:10 | INFO | http://webartsy.store/ | DEGRADED | 275ms | 200 | domain has been suspended
+2026-01-08 | 12:10 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:10 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:10 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:10 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:10 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:10 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:10 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:10 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:10 | INFO | http://webartsy.online/ | DEGRADED | 298ms | 200 | domain has been suspended
+2026-01-08 | 12:10 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:10 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:10 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:10 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:10 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:10 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:10 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:10 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:10 | INFO | https://google.com | UP | 618ms | 200 | None
+2026-01-08 | 12:13 | INFO | https://arif-iqbal.com/ | UP | 528ms | 200 | None
+2026-01-08 | 12:13 | INFO | http://www.webartsy.site/ | DEGRADED | 278ms | 200 | domain has been suspended
+2026-01-08 | 12:13 | INFO | http://webartsy.store/ | DEGRADED | 297ms | 200 | domain has been suspended
+2026-01-08 | 12:13 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:13 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:13 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:13 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:13 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:13 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:13 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:13 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:13 | INFO | http://webartsy.online/ | DEGRADED | 276ms | 200 | domain has been suspended
+2026-01-08 | 12:13 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:13 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:13 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:13 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:13 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:13 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:13 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:13 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:13 | INFO | https://google.com | UP | 616ms | 200 | None
+2026-01-08 | 12:15 | INFO | https://arif-iqbal.com/ | UP | 529ms | 200 | None
+2026-01-08 | 12:15 | INFO | http://www.webartsy.site/ | DEGRADED | 278ms | 200 | domain has been suspended
+2026-01-08 | 12:15 | INFO | http://webartsy.store/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:15 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:15 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:15 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:15 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:15 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:15 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:15 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:15 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:15 | INFO | http://webartsy.online/ | DEGRADED | 284ms | 200 | domain has been suspended
+2026-01-08 | 12:15 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:15 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:15 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:15 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:15 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:15 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:15 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:15 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:15 | INFO | https://google.com | UP | 615ms | 200 | None
+2026-01-08 | 12:18 | INFO | https://arif-iqbal.com/ | UP | 576ms | 200 | None
+2026-01-08 | 12:18 | INFO | http://www.webartsy.site/ | DEGRADED | 275ms | 200 | domain has been suspended
+2026-01-08 | 12:18 | INFO | http://webartsy.store/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:18 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:18 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:18 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:18 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:18 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:18 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:18 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:18 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:18 | INFO | http://webartsy.online/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:18 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:18 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:18 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:18 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:18 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:18 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:18 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:18 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:18 | INFO | https://google.com | UP | 649ms | 200 | None
+2026-01-08 | 12:19 | INFO | https://arif-iqbal.com/ | UP | 522ms | 200 | None
+2026-01-08 | 12:19 | INFO | http://www.webartsy.site/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-08 | 12:19 | INFO | http://webartsy.store/ | DEGRADED | 271ms | 200 | domain has been suspended
+2026-01-08 | 12:19 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:19 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:19 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:19 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:19 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:19 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:19 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:19 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:19 | INFO | http://webartsy.online/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:19 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:19 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:19 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:19 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:19 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:19 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:19 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:19 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:19 | INFO | https://google.com | UP | 623ms | 200 | None
+2026-01-08 | 12:20 | INFO | https://arif-iqbal.com/ | UP | 521ms | 200 | None
+2026-01-08 | 12:20 | INFO | http://www.webartsy.site/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:20 | INFO | http://webartsy.store/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-08 | 12:20 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:20 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:20 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:20 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:20 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:20 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:20 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:20 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:20 | INFO | http://webartsy.online/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:20 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:20 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:20 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:20 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:20 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:20 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:20 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:20 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:20 | INFO | https://google.com | UP | 619ms | 200 | None
+2026-01-08 | 12:21 | INFO | https://arif-iqbal.com/ | UP | 522ms | 200 | None
+2026-01-08 | 12:21 | INFO | http://www.webartsy.site/ | DEGRADED | 299ms | 200 | domain has been suspended
+2026-01-08 | 12:21 | INFO | http://webartsy.store/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:21 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:21 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:21 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:21 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:21 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:21 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:21 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:21 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:21 | INFO | http://webartsy.online/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:21 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:21 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:21 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:21 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:21 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:21 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:21 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:21 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:21 | INFO | https://google.com | UP | 737ms | 200 | None
+2026-01-08 | 12:24 | INFO | https://arif-iqbal.com/ | UP | 564ms | 200 | None
+2026-01-08 | 12:24 | WARNING | http://www.webartsy.site/ | Retrying!
+2026-01-08 | 12:24 | WARNING | http://www.webartsy.site/ | Retrying!
+2026-01-08 | 12:24 | WARNING | http://www.webartsy.site/ | Retrying!
+2026-01-08 | 12:24 | INFO | http://www.webartsy.site/ | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:24 | INFO | http://webartsy.store/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:24 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:24 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:24 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:24 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:24 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:24 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:24 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:24 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:24 | INFO | http://webartsy.online/ | DEGRADED | 280ms | 200 | domain has been suspended
+2026-01-08 | 12:24 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:24 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:24 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:24 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:24 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:24 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:24 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:24 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:24 | INFO | https://google.com | UP | 613ms | 200 | None
+2026-01-08 | 12:25 | INFO | https://arif-iqbal.com/ | UP | 576ms | 200 | None
+2026-01-08 | 12:25 | WARNING | http://www.webartsy.site/ | Retrying!
+2026-01-08 | 12:25 | WARNING | http://www.webartsy.site/ | Retrying!
+2026-01-08 | 12:25 | WARNING | http://www.webartsy.site/ | Retrying!
+2026-01-08 | 12:25 | INFO | http://www.webartsy.site/ | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:25 | INFO | http://webartsy.store/ | DEGRADED | 299ms | 200 | domain has been suspended
+2026-01-08 | 12:25 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:25 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:25 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:25 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:25 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:25 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:25 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:25 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:25 | INFO | http://webartsy.online/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:25 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:25 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:25 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:25 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:25 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:25 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:25 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:25 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:25 | INFO | https://google.com | UP | 614ms | 200 | None
+2026-01-08 | 12:31 | INFO | https://arif-iqbal.com/ | UP | 531ms | 200 | None
+2026-01-08 | 12:31 | INFO | http://www.webartsy.site/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:31 | INFO | http://webartsy.store/ | DEGRADED | 278ms | 200 | domain has been suspended
+2026-01-08 | 12:31 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:31 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:31 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:31 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:31 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:31 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:31 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:31 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:31 | INFO | http://webartsy.online/ | DEGRADED | 296ms | 200 | domain has been suspended
+2026-01-08 | 12:31 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:31 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:31 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:31 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:31 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:31 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:31 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:31 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:31 | INFO | https://google.com | UP | 618ms | 200 | None
+2026-01-08 | 12:35 | INFO | https://arif-iqbal.com/ | UP | 536ms | 200 | None
+2026-01-08 | 12:35 | INFO | http://www.webartsy.site/ | DEGRADED | 278ms | 200 | domain has been suspended
+2026-01-08 | 12:35 | INFO | http://webartsy.store/ | DEGRADED | 278ms | 200 | domain has been suspended
+2026-01-08 | 12:35 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:35 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:35 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:35 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:35 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:35 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:35 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:35 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:35 | INFO | http://webartsy.online/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:35 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:35 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:35 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:35 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:35 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:35 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:35 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:35 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:35 | INFO | https://google.com | UP | 618ms | 200 | None
+2026-01-08 | 12:36 | INFO | https://arif-iqbal.com/ | UP | 537ms | 200 | None
+2026-01-08 | 12:36 | INFO | http://www.webartsy.site/ | DEGRADED | 732ms | 200 | domain has been suspended
+2026-01-08 | 12:36 | INFO | http://webartsy.store/ | DEGRADED | 706ms | 200 | domain has been suspended
+2026-01-08 | 12:36 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:36 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:36 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:36 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:36 | INFO | http://webartsy.online/ | DEGRADED | 1235ms | 200 | domain has been suspended
+2026-01-08 | 12:36 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:36 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:36 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:36 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:36 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:36 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:36 | INFO | https://google.com | UP | 627ms | 200 | None
+2026-01-08 | 12:36 | INFO | https://arif-iqbal.com/ | UP | 544ms | 200 | None
+2026-01-08 | 12:36 | INFO | http://www.webartsy.site/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:36 | INFO | http://webartsy.store/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:36 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:36 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:36 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:36 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:36 | INFO | http://webartsy.online/ | DEGRADED | 284ms | 200 | domain has been suspended
+2026-01-08 | 12:36 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:36 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:36 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:36 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:36 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:36 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:36 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:36 | INFO | https://google.com | UP | 625ms | 200 | None
+2026-01-08 | 12:37 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:37 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:37 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:37 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:37 | INFO | http://www.webartsy.site/ | DEGRADED | 297ms | 200 | domain has been suspended
+2026-01-08 | 12:37 | INFO | http://webartsy.store/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:37 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:37 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:37 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:37 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:37 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:37 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:37 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:37 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:37 | INFO | http://webartsy.online/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-08 | 12:37 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:37 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:37 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:37 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:37 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:37 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:37 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:37 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:37 | INFO | https://google.com | UP | 617ms | 200 | None
+2026-01-08 | 12:37 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:37 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:37 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:37 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:37 | INFO | http://www.webartsy.site/ | DEGRADED | 270ms | 200 | domain has been suspended
+2026-01-08 | 12:38 | INFO | http://webartsy.store/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:38 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:38 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:38 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:38 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:38 | INFO | http://webartsy.online/ | DEGRADED | 279ms | 200 | domain has been suspended
+2026-01-08 | 12:38 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:38 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:38 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:38 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:38 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:38 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:38 | INFO | https://google.com | UP | 620ms | 200 | None
+2026-01-08 | 12:38 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:38 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:38 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:38 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:38 | INFO | http://www.webartsy.site/ | DEGRADED | 283ms | 200 | domain has been suspended
+2026-01-08 | 12:38 | INFO | http://webartsy.store/ | DEGRADED | 270ms | 200 | domain has been suspended
+2026-01-08 | 12:38 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:38 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:38 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:38 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:38 | INFO | http://webartsy.online/ | DEGRADED | 277ms | 200 | domain has been suspended
+2026-01-08 | 12:38 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:38 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:38 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:38 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:38 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:38 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:38 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:38 | INFO | https://google.com | UP | 622ms | 200 | None
+2026-01-08 | 12:39 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:39 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:39 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:39 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:39 | INFO | http://www.webartsy.site/ | DEGRADED | 289ms | 200 | domain has been suspended
+2026-01-08 | 12:39 | INFO | http://webartsy.store/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:39 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:39 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:39 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:39 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:39 | INFO | http://webartsy.online/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-08 | 12:39 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:39 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:39 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:39 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:39 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:39 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:39 | INFO | https://google.com | UP | 649ms | 200 | None
+2026-01-08 | 12:39 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:39 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:39 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:39 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:39 | INFO | http://www.webartsy.site/ | DEGRADED | 271ms | 200 | domain has been suspended
+2026-01-08 | 12:39 | INFO | http://webartsy.store/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:39 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:39 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:39 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:39 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:39 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:39 | INFO | http://webartsy.online/ | DEGRADED | 272ms | 200 | domain has been suspended
+2026-01-08 | 12:39 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:39 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:39 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:40 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:40 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:40 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:40 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:40 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:40 | INFO | https://google.com | UP | 651ms | 200 | None
+2026-01-08 | 12:40 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:40 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:40 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:40 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:40 | INFO | http://www.webartsy.site/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:40 | INFO | http://webartsy.store/ | DEGRADED | 283ms | 200 | domain has been suspended
+2026-01-08 | 12:40 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:40 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:40 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:40 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:40 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:40 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:40 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:40 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:40 | INFO | http://webartsy.online/ | DEGRADED | 279ms | 200 | domain has been suspended
+2026-01-08 | 12:40 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:40 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:40 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:40 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:40 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:40 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:40 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:40 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:40 | INFO | https://google.com | UP | 618ms | 200 | None
+2026-01-08 | 12:41 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:41 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:41 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:41 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:41 | INFO | http://www.webartsy.site/ | DEGRADED | 308ms | 200 | domain has been suspended
+2026-01-08 | 12:41 | INFO | http://webartsy.store/ | DEGRADED | 290ms | 200 | domain has been suspended
+2026-01-08 | 12:41 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:41 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:41 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:41 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:41 | INFO | http://webartsy.online/ | DEGRADED | 277ms | 200 | domain has been suspended
+2026-01-08 | 12:41 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:41 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:41 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:41 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:41 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:41 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:41 | INFO | https://google.com | UP | 611ms | 200 | None
+2026-01-08 | 12:41 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:41 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:41 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:41 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:41 | INFO | http://www.webartsy.site/ | DEGRADED | 279ms | 200 | domain has been suspended
+2026-01-08 | 12:41 | INFO | http://webartsy.store/ | DEGRADED | 270ms | 200 | domain has been suspended
+2026-01-08 | 12:41 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:41 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:41 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:41 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:41 | INFO | http://webartsy.online/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:41 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:41 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:41 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:41 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:41 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:41 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:41 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:42 | INFO | https://google.com | UP | 688ms | 200 | None
+2026-01-08 | 12:42 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:42 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:42 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:42 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:42 | INFO | http://www.webartsy.site/ | DEGRADED | 271ms | 200 | domain has been suspended
+2026-01-08 | 12:42 | INFO | http://webartsy.store/ | DEGRADED | 271ms | 200 | domain has been suspended
+2026-01-08 | 12:42 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:42 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:42 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:42 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:42 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:42 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:42 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:42 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:42 | INFO | http://webartsy.online/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:42 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:42 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:42 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:42 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:42 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:42 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:42 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:42 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:42 | INFO | https://google.com | UP | 609ms | 200 | None
+2026-01-08 | 12:43 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:43 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:43 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:43 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:43 | INFO | http://www.webartsy.site/ | DEGRADED | 273ms | 200 | domain has been suspended
+2026-01-08 | 12:43 | INFO | http://webartsy.store/ | DEGRADED | 279ms | 200 | domain has been suspended
+2026-01-08 | 12:43 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:43 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:43 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:43 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:43 | INFO | http://webartsy.online/ | DEGRADED | 284ms | 200 | domain has been suspended
+2026-01-08 | 12:43 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:43 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:43 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:43 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:43 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:43 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:43 | INFO | https://google.com | UP | 652ms | 200 | None
+2026-01-08 | 12:43 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:43 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:43 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:43 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:43 | INFO | http://www.webartsy.site/ | DEGRADED | 289ms | 200 | domain has been suspended
+2026-01-08 | 12:43 | INFO | http://webartsy.store/ | DEGRADED | 275ms | 200 | domain has been suspended
+2026-01-08 | 12:43 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:43 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:43 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:43 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:43 | INFO | http://webartsy.online/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:43 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:43 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:43 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:43 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:43 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:43 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:43 | INFO | https://google.com | UP | 1013ms | 200 | None
+2026-01-08 | 12:43 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:43 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:43 | WARNING | https://arifiqbal.com/ | Retrying!
+2026-01-08 | 12:43 | INFO | https://arifiqbal.com/ | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:43 | INFO | http://www.webartsy.site/ | DEGRADED | 274ms | 200 | domain has been suspended
+2026-01-08 | 12:43 | INFO | http://webartsy.store/ | DEGRADED | 277ms | 200 | domain has been suspended
+2026-01-08 | 12:43 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:43 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:43 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:43 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:43 | INFO | http://webartsy.online/ | DEGRADED | 299ms | 200 | domain has been suspended
+2026-01-08 | 12:43 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:43 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:43 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:43 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:43 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:43 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:43 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:44 | INFO | https://google.com | UP | 619ms | 200 | None
+2026-01-08 | 12:44 | INFO | https://arif-iqbal.com/ | UP | 572ms | 200 | None
+2026-01-08 | 12:44 | INFO | http://www.webartsy.site/ | DEGRADED | 603ms | 200 | domain has been suspended
+2026-01-08 | 12:44 | INFO | http://webartsy.store/ | DEGRADED | 524ms | 200 | domain has been suspended
+2026-01-08 | 12:44 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:44 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:44 | WARNING | http://example.com:81 | Retrying!
+2026-01-08 | 12:44 | INFO | http://example.com:81 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:44 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:44 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:44 | WARNING | http://example.com:71 | Retrying!
+2026-01-08 | 12:44 | INFO | http://example.com:71 | DOWN | None | None | Hostname name or service not known
+2026-01-08 | 12:44 | INFO | http://webartsy.online/ | DEGRADED | 1246ms | 200 | domain has been suspended
+2026-01-08 | 12:44 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:44 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:44 | WARNING | https://httpstat.us/404 | Retrying!
+2026-01-08 | 12:44 | INFO | https://httpstat.us/404 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:44 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:44 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:44 | WARNING | http://httpstat.us/503 | Retrying!
+2026-01-08 | 12:44 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
+2026-01-08 | 12:44 | INFO | https://google.com | UP | 615ms | 200 | None

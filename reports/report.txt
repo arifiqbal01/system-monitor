@@ -22,5 +22,8 @@ Websites DEGRADED
 - http://webartsy.online/ error: domain has been suspended 
 
 
-No errors found. 
+No system errors found. 
+
+
+No system warning found. 
 

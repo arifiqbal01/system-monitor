@@ -7,7 +7,13 @@ def analyze_log(logfile):
     "DOWN": {"total": 0, "websites": []}, 
     "DEGRADED": {"total": 0, "websites": []}, 
     "UNKNOWN": {"total": 0, "websites": []}}
-  errors = {}
+  system_summary = {
+    "errors": [],
+    "warning": [],
+    "info": [],
+  }
+  errors = []
+  warning = []
   hourly = {}
   seen = []
   log_lines = []
@@ -28,31 +34,38 @@ def analyze_log(logfile):
   def summary_maker(content):
     log_lines = []
     for part in line_normalizer(content):
-      date = part[0]
-      time = part[1]
-      log_level = part[2]
-      website = part[3]
-      website_status = part[4]
-      response_time = part[5]
-      status_code = part[6]
-      error_message = part[7]
-      log_lines.append(part)
+      if len(part) == 8:
+        date = part[0]
+        time = part[1]
+        log_level = part[2]
+        website = part[3]
+        website_status = part[4]
+        response_time = part[5]
+        status_code = part[6]
+        error_message = part[7]
+        log_lines.append(part)
+      else:
+        date = part[0]
+        time = part[1]
+        log_level = part[2]
+        website = part[3]
+        message = part[4]
       if log_level == "INFO":
-        if website_status  == "UP":
+        if website_status  == "UP" and website not in [item['website'] for item in websites_summary["UP"]["websites"]]:
           websites_summary["UP"]["total"] += 1
           websites_summary["UP"]["websites"].append({
             "website": website,
             "response_time": response_time,
             "status_code": status_code
           })
-        elif website_status  == "DOWN":
+        elif website_status  == "DOWN" and website not in [item['website'] for item in websites_summary["DOWN"]["websites"]]:
           websites_summary["DOWN"]["total"] += 1
           websites_summary["DOWN"]["websites"].append({
             "website": website, 
             "response_time": response_time, 
             "status_code": status_code, 
             "error_message": error_message})
-        elif website_status  == "DEGRADED":
+        elif website_status  == "DEGRADED" and website not in [item['website'] for item in websites_summary["DEGRADED"]["websites"]]:
           websites_summary["DEGRADED"]["total"] += 1
           websites_summary["DEGRADED"]["websites"].append({
             "website": website,
@@ -61,17 +74,28 @@ def analyze_log(logfile):
             "error_message": error_message
           })
         else:
-          websites_summary["UNKNOWN"]["total"] += 1
-          websites_summary["UNKNOWN"]["websites"].append({
-            "website": website,
-            "response_time": response_time,
-            "status_code": status_code,
-            "error_message": error_message
-          })
-      elif log_level == "ERROR":
-        errors.append({
+          if website not in [item['website'] for item in websites_summary["UNKNOWN"]["websites"]]:
+            websites_summary["UNKNOWN"]["total"] += 1
+            websites_summary["UNKNOWN"]["websites"].append({
+              "website": website,
+              "response_time": response_time,
+              "status_code": status_code,
+              "error_message": error_message
+            })
+      elif log_level == "INFO" and len(parts) < 8:
+        system_summary["info"].append({
           "website": website,
-          "error_message": error_message
+          "message": message
+        })
+      elif log_level == "ERROR":
+        system_summary["error"].append({
+          "website": website,
+          "message": message
+        })
+      elif log_level == "WARNING":
+        system_summary["warning"].append({
+          "website": website,
+          "message": message
         })
     return websites_summary, log_lines
   
@@ -153,7 +177,17 @@ def analyze_log(logfile):
     else:
       file.write("\n")
       file.write("System Errors \n")
-      for w, e in errors.items():
-        if e:
-          file.write(f"- {w} : {e} \n")
+      for e in system_summary["errors"]:
+        if e["message"]:
+          file.write(f"- {e['website']} : {e['message']} \n")
+    if not warning:
+      file.write("\n")
+      file.write("No system warning found. \n")
+      file.write("\n")
+    else:
+      file.write("\n")
+      file.write("System Warnings \n")
+      for w in system_summary["warning"]:
+        if w["message"]:
+          file.write(f"- {w['website']} : {w['message']} \n")
   return
