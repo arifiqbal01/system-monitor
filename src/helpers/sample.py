@@ -79,7 +79,7 @@ def observe(website: Website, timeout: int) -> CheckResult:
 
     except TimeoutError:
         return CheckResult(
-            website=website,
+            website=website,         
             response_time_ms=None,
             status_code=None,
             failure=Failure(FailureType.TIMEOUT, "request timed out")
