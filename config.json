@@ -1,6 +1,7 @@
 {
     "interval-minutes": 1,
     "timeout-seconds": 3,
+    "retries": 3,
     "websites": [
         "https://arif-iqbal.com/",
         "http://www.webartsy.site/",
