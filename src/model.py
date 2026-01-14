@@ -4,6 +4,7 @@ from typing import Optional
 import json
 from urllib.parse import urlparse
 import socket
+import time
 
 @dataclass(frozen=True)
 class Website:
@@ -80,13 +81,41 @@ class CheckResult:
     website: Website
     response_time: Optional[int]
     status_code: Optional[int]
-    failure: Failure
+    failure: WebsiteFailure
 
 class WebStatus(Enum):
     UP = auto()
     DOWN = auto()
     DEGRADED = auto()
     UNKNOWN = auto()
+
+def now():
+  current_time = time.time()
+
+def normalize_validate_URL(website):
+  try:
+    p = urlparse(website)
+    if p.scheme and p.netloc and not p.path:
+      socket.getaddrinfo(p.netloc, None)
+      website = f"{p.scheme}://{p.netloc}"
+
+    elif p.path and not p.scheme and not p.netloc:
+      socket.getaddrinfo(p.path, None)
+      website = f"https://{p.path}"
+
+    elif p.netloc and not p.scheme:
+      socket.getaddrinfo(p.netloc, None)
+      website = f"https://{p.netloc}"
+
+    elif p.scheme and p.netloc and p.path:
+      socket.getaddrinfo(p.netloc, None)
+      website = f"{p.scheme}://{p.netloc}{p.path}"  
+  except ValueError as e:
+    SystemFailure(type=SystemFailureTypes.InvalidURL, message=e)
+  except socket.gaierror as e:
+    WebsiteFailure(type=WebsiteFailureTypes.DNS, message=e)
+  
+  return  Website(URL=website)
 
 
 config_path = "./config.json"
@@ -103,27 +132,7 @@ def loader():
             websites = data.get("websites", [])
             for website in websites:
                 website = website
-                error_message = None
-                address_info = None
-                try:
-                    parsed_url = urlparse(website)
-                    netlocation = parsed_url[1] if not parsed_url[2] == website else website
-                    
-                except AttributeError as e:
-                    return Failure(type=FailureTypes.INVALID_URL, message="URL syntax error: missing scheme")
-            
+                normalize_validate_URL(website)
     except FileNotFoundError:
         print("file not found!")
 loader()
-
-def dns():
-    try:
-        address_info = socket.getaddrinfo(netlocation, None)
-        if parsed_url[0]:
-            website = parsed_url[0] + "://" + netlocation + parsed_url[2]
-            return Website(URL=website)
-        else:
-            website = "https://" + netlocation 
-            return Website(URL=website)
-    except socket.gaierror as e:
-        return Failure(type=FailureTypes.DNS, message="Hostname name or service not known")
