@@ -1,5 +1,5 @@
 
-from logger import logger
+from . import logger
 from json import dumps, loads
 def analyze_log(logfile):
   websites_summary = {

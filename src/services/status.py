@@ -1,4 +1,4 @@
-from logger import logger
+from . import logger
 
 def  web_status(website, status_code, error_message, response_time):
     status = ("DOWN", "UP", "DEGRADED", "Unknown")
