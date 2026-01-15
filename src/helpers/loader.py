@@ -1,5 +1,6 @@
 import json
 from .normalize_url import normalize_url
+from .logger import logger
 from ..services import model
 
 config_path = "./config.json"
@@ -19,5 +20,7 @@ def loader():
                 normalized_obj = normalize_url(raw)
                 normalized_websites.append(normalized_obj)
     except FileNotFoundError:
-        print("file not found!")
+        logger.error(f"Configuration file {config} not found.", exc_info=e)
+        with open("./logs/monitor.log", 'w') as config_file:
+            config_file.write("")
     return normalized_websites, config

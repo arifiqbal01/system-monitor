@@ -1,5 +1,5 @@
 import requests
-from . import logger
+from src.helpers.logger import logger
 
 def web_request(website, timeout):
     response_time = None

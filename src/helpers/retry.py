@@ -1,6 +1,5 @@
-from url import web_url
-from request import web_request
-from logger import logger
+from ..services.request import web_request
+from .logger import logger
 
 def retry(website, error_message, status_code, timeout):
     max_retries = 3
