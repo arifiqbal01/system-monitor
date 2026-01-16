@@ -1,13 +1,24 @@
+from time import time
 from src.helpers.loader import loader
-from src.services.request import web_request
+from src.services.observe_website import observe_website
 from src.services.status import web_status
 from src.services.report import analyze_log
-from src.helpers.retry import retry
-from time import time
+from src.services.model import Config, Website
+from src.services.observe_website import observe_website
 
 data = loader()
-print(data)
+cfg = data[1]
+websites = data[0]
 
+def main(config: Config, websites: Website):
+    
+    for website in websites:
+        o = observe_website(website, cfg.timeout_seconds)
+        print(o)
+
+main(cfg, websites)
+
+"""
 for website in websites:
     result = web_url(website)
     website = result[0]
@@ -30,3 +41,4 @@ for website in websites:
 logfile = "./logs/monitor.log"
 analyze_log(logfile)
 time.sleep(interval)
+"""

@@ -10,9 +10,9 @@ def loader():
         with open(config_path, 'r') as readFile:
             data = json.load(readFile)
             config = model.Config(
-                interval_minutes = data.get("interval_minutes", 30),
-                timeout_seconds = data.get("timeout_seconds", 5),
-                retries = data.get("retries", 3),
+                interval_minutes = data.get("interval-minutes"),
+                timeout_seconds = data.get("timeout-seconds"),
+                retries = data.get("retries"),
             )
             raw_websites = data.get("websites", [])
             normalized_websites = []
