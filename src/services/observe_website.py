@@ -1,8 +1,8 @@
 import requests
 from src.helpers.logger import logger
-from .model import Website, CheckResult, WebsiteFailureTypes, WebsiteFailure
+from .model import Config, Website, CheckResult, WebsiteFailureTypes, WebsiteFailure
 
-def observe_website(website, timeout_seconds):
+def observe_website(website, cfg):
     keywords = [
     "domain has been suspended",
     "account suspended",
@@ -22,11 +22,10 @@ def observe_website(website, timeout_seconds):
     ]
     
     try:
-        r = requests.get(website.URL, timeout=timeout_seconds)
+        r = requests.get(website.URL, timeout=cfg.timeout_seconds)
         r_time = r.elapsed.total_seconds() * 1000
-        html = r.text
         for k in keywords:
-            if k in html and r.status_code == 200:
+            if k in r.text and r.status_code == 200:
                 return CheckResult(
                     website = website,
                     response_time = r_time,
@@ -66,5 +65,5 @@ def observe_website(website, timeout_seconds):
             website = website,
             response_time = None,
             status_code = None,
-            failure =  WebsiteFailure(WebsiteFailureTypes.UNKNOWNP, e)
+            failure =  WebsiteFailure(WebsiteFailureTypes.UNKNOWN, e)
         )

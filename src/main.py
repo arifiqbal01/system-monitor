@@ -1,9 +1,9 @@
 from time import time
 from src.helpers.loader import loader
 from src.services.observe_website import observe_website
-from src.services.status import web_status
+from src.services.status_checker import status_checker
 from src.services.report import analyze_log
-from src.services.model import Config, Website
+from src.services.model import Config, Website, CheckResult
 from src.services.observe_website import observe_website
 
 data = loader()
@@ -11,32 +11,21 @@ cfg = data[1]
 websites = data[0]
 
 def main(config: Config, websites: Website):
-    
+    monitor_result = {}
     for website in websites:
-        o = observe_website(website, cfg.timeout_seconds)
-        print(o)
-
+        result = observe_website(website, cfg)
+        status = status_checker(result)
+        monitor_result.update({website.URL: {
+            "status": str(status.name),
+            "response_time": result.response_time,
+            "http_code": result.status_code,
+            "failure": str(result.failure.type.name)
+        }})
+    return monitor_result
 main(cfg, websites)
 
 """
-for website in websites:
-    result = web_url(website)
-    website = result[0]
-    if result[1]:
-        error_message = result[1]
-        response_time = None
-        status_code = None
-        retry(website, error_message, status_code, timeout)
-    else:
-        single_request = web_request(website, timeout)
-        response_time = single_request[1]
-        status_code = single_request[2]
-        error_message = single_request[3]
-        retry(website, error_message, status_code, timeout)
-    
-    website_status = web_status(website, status_code, error_message, response_time)
-    response_time = f"{response_time:.0f}ms" if response_time else response_time
-    logger.info(f"{website} | {website_status} | {response_time} | {status_code} | {error_message}")
+logger.info(f"{website} | {website_status} | {response_time} | {status_code} | {error_message}")
 
 logfile = "./logs/monitor.log"
 analyze_log(logfile)
