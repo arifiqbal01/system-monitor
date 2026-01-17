@@ -84,3 +84,12 @@ class WebStatus(Enum):
     DOWN = auto()
     DEGRADED = auto()
     UNKNOWN = auto()
+
+@dataclass
+class WebReport:
+    datetime: 
+    website: Website
+    status: str
+    response_time: Optional[int]
+    http_code: Optional[int]
+    failure: WebsiteFailure
