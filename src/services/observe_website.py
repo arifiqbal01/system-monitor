@@ -29,41 +29,41 @@ def observe_website(website, cfg):
                 return CheckResult(
                     website = website,
                     response_time = r_time,
-                    status_code = r.status_code,
+                    http_code = r.status_code,
                     failure = WebsiteFailure(WebsiteFailureTypes.SEMANTIC, k)
                 )
                 break      
         return CheckResult(
             website = website,
             response_time = r_time,
-            status_code = r.status_code,
+            http_code = r.status_code,
             failure = WebsiteFailure(WebsiteFailureTypes.NONE)
         )
     except requests.HTTPError as e:
         return CheckResult(
             website = website,
             response_time = None,
-            status_code = None,
+            http_code = None,
             failure =  WebsiteFailure(WebsiteFailureTypes.HTTP, e)
         )
     except requests.exceptions.ConnectionError as e:
         return CheckResult(
             website = website,
             response_time = None,
-            status_code = None,
+            http_code = None,
             failure =  WebsiteFailure(WebsiteFailureTypes.NETWORK, e)
         )
     except requests.exceptions.Timeout as e:
         return CheckResult(
             website = website,
             response_time = None,
-            status_code = None,
+            http_code = None,
             failure =  WebsiteFailure(WebsiteFailureTypes.TIMEOUT, e)
         )
     except requests.RequestException as e:
         return CheckResult(
             website = website,
             response_time = None,
-            status_code = None,
+            http_code = None,
             failure =  WebsiteFailure(WebsiteFailureTypes.UNKNOWN, e)
         )

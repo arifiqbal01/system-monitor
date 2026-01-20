@@ -1,6 +1,8 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from enum import Enum, auto
 from typing import Optional
+import uuid
+from datetime import datetime
 
 @dataclass(frozen=True)
 class Website:
@@ -76,7 +78,7 @@ class SystemFailure:
 class CheckResult:
     website: Website
     response_time: Optional[int]
-    status_code: Optional[int]
+    http_code: Optional[int]
     failure: WebsiteFailure
 
 class WebStatus(Enum):
@@ -85,11 +87,12 @@ class WebStatus(Enum):
     DEGRADED = auto()
     UNKNOWN = auto()
 
-@dataclass
-class WebReport:
-    datetime: 
+@dataclass(frozen=True)
+class WebsiteReport():
     website: Website
     status: str
     response_time: Optional[int]
     http_code: Optional[int]
     failure: WebsiteFailure
+    id: uuid.UUID = field(default_factory=uuid.uuid4)
+    timestamp: datetime.now = field(default_factory=datetime.now)

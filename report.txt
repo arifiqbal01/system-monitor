@@ -1,8 +1,0 @@
-Log Summary
-----------------------
-
-INFO: 0 
-ERROR: 0 
-WARNING: 0 
-
-Error Details 

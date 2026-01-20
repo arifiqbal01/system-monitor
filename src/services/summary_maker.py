@@ -1,11 +1,9 @@
 
 from src.helpers.logger import logger
 from json import dumps, loads
-from src.services.model import Website, CheckResult, WebStatus
+from src.services.model import Website, CheckResult, WebStatus, WebsiteReport
 
-def report_maker(monitor_result):
-  data = monitor_result
-  
+def summary_maker(reports):
   up_websites = []
   down_websites = []
   degraded_websites = []
@@ -16,21 +14,21 @@ def report_maker(monitor_result):
   degraded_count = 0
   unknown_count = 0
  
-  for item in data:
+  for report in reports:
     web_count += 1
-    if item["status"] == "UP":
+    if report.status == "UP":
       up_count += 1
-      up_websites.append(item["website"])
-    elif item["status"] == "DOWN":
+      up_websites.append(report.website)
+    elif report.status == "DOWN":
       down_count += 1
-      down_websites.append(item["website"])
-    elif item["status"] == "DEGRADED":
+      down_websites.append(report.website)
+    elif report.status == "DEGRADED":
       degraded_count += 1
-      degraded_websites.append(item["website"])
-    elif item["status"] == "UNKNOWN":
+      degraded_websites.append(report.website)
+    elif report.status == "UNKNOWN":
       unknown_count += 1
-      unkown_websites.append(item["website"])
+      unkown_websites.append(report.website)
 
   print(f"total websites = {web_count}, up = {up_count}: {up_websites}, down = {down_count}: {down_websites}, degraded = {degraded_count}: {degraded_websites}, unknown = {unknown_count}: {unkown_websites}")
-  return 
-  
+
+  return
