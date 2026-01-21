@@ -8,6 +8,7 @@ def summary_maker(reports):
   down_websites = []
   degraded_websites = []
   unkown_websites = []
+  
   web_count = 0
   up_count = 0
   down_count = 0

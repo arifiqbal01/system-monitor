@@ -20,7 +20,6 @@ def loader():
                 normalized_obj = normalize_url(raw)
                 normalized_websites.append(normalized_obj)
     except FileNotFoundError:
-        logger.error(f"Configuration file {config} not found.", exc_info=e)
-        with open("./logs/monitor.log", 'w') as config_file:
-            config_file.write("")
+        logger.warning(f"Configuration file {config} not found.", exc_info=e)
+    
     return normalized_websites, config

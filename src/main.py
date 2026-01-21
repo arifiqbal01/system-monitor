@@ -1,10 +1,10 @@
 from time import time
 from src.helpers.loader import loader
+from src.helpers.retry import retry
 from src.services.observe_website import observe_website
 from src.services.status_checker import status_checker
 from src.services.summary_maker import summary_maker
 from src.services.model import Config, Website, CheckResult, WebsiteReport
-from src.services.observe_website import observe_website
 
 data = loader()
 cfg = data[1]
@@ -12,7 +12,11 @@ websites = data[0]
 
 def recorder(config: Config, websites: Website):
     for website in websites:
-        result = observe_website(website, cfg)
+        def operations():
+            return observe_website(website, cfg)
+        result = retry(operations)
+        print(result)
+        """
         status = status_checker(result)
         yield WebsiteReport(
             website = website,
@@ -21,6 +25,7 @@ def recorder(config: Config, websites: Website):
             http_code = result.http_code,
             failure = result.failure.type.name
         )
+        """
 
 def main():
     reports = []
