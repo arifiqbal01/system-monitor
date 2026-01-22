@@ -3,7 +3,7 @@
     "timeout-seconds": 3,
     "retries": 3,
     "websites": [
-        "https://arif-iqbal.com/",
+        "https://arif-iqbal.com/main",
         "http://www.webartsy.site/",
         "http://webartsy.store/",
         "http://example.com:81",

@@ -1469,3 +1469,2068 @@
 2026-01-08 | 12:44 | WARNING | http://httpstat.us/503 | Retrying!
 2026-01-08 | 12:44 | INFO | http://httpstat.us/503 | DOWN | None | None | Connection Refused Error
 2026-01-08 | 12:44 | INFO | https://google.com | UP | 615ms | 200 | None
+2026-01-22 | 10:54 | INFO | Initalizing loader
+2026-01-22 | 10:54 | INFO | Initalizing loader
+2026-01-22 | 10:54 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:54 | INFO | Parsing successful for https://arif-iqbal.com/
+2026-01-22 | 10:54 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:54 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 10:54 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:54 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 10:54 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:54 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 10:54 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 10:54 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:54 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 10:54 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 10:54 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:54 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 10:54 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:54 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 10:54 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:54 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 10:54 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:54 | INFO | Parsing successful for google.com
+2026-01-22 | 10:54 | INFO | Normalization done for website(s)
+2026-01-22 | 10:54 | INFO | Initalizing http request for https://arif-iqbal.com/
+2026-01-22 | 10:54 | INFO | Successful http request for https://arif-iqbal.com/
+2026-01-22 | 10:55 | INFO | Initalizing loader
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for https://arif-iqbal.com/
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 10:55 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 10:55 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for google.com
+2026-01-22 | 10:55 | INFO | Normalization done for website(s)
+2026-01-22 | 10:55 | INFO | Initalizing http request for https://arif-iqbal.com/
+2026-01-22 | 10:55 | INFO | Successful http request for https://arif-iqbal.com/
+2026-01-22 | 10:55 | INFO | Initalizing status check for https://arif-iqbal.com/
+2026-01-22 | 10:55 | INFO | Initalizing loader
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for https://arif-iqbal.com/
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 10:55 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 10:55 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 10:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:55 | INFO | Parsing successful for google.com
+2026-01-22 | 10:55 | INFO | Normalization done for website(s)
+2026-01-22 | 10:55 | INFO | Initalizing http request for https://arif-iqbal.com/
+2026-01-22 | 10:55 | INFO | Successful http request for https://arif-iqbal.com/
+2026-01-22 | 10:55 | INFO | Initalizing status check for https://arif-iqbal.com/
+2026-01-22 | 10:55 | INFO | https://arif-iqbal.com/ status is WebStatus.UP
+2026-01-22 | 10:55 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 10:55 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 10:55 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 10:55 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 10:55 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 10:55 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 10:55 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 10:55 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 10:55 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 10:56 | INFO | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x102c0a070>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 10:56 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 10:56 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 10:56 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 10:56 | INFO | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x102c0ad00>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 10:56 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 10:56 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 10:56 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 10:56 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 10:56 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 10:56 | INFO | http://webartsy.online/ status is WebStatus.DEGRADED
+2026-01-22 | 10:56 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 10:56 | INFO | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 10:56 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 10:56 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 10:56 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 10:56 | INFO | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 10:56 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 10:56 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 10:56 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 10:56 | INFO | Successful http request for https://google.com
+2026-01-22 | 10:56 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 10:56 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 10:56 | INFO | 
+  total websites = 9, 
+  up = 2: [Website(URL='https://arif-iqbal.com/'), Website(URL='https://google.com')], 
+  down = 4: [Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  degraded = 3: [Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://webartsy.online/')], 
+  unknown = 0: []"
+  
+2026-01-22 | 10:58 | INFO | Initalizing loader
+2026-01-22 | 10:58 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:58 | INFO | Parsing successful for https://arif-iqbal.com/
+2026-01-22 | 10:58 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:58 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 10:58 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:58 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 10:58 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:58 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 10:58 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 10:58 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:58 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 10:58 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 10:58 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:58 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 10:58 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:58 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 10:58 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:58 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 10:58 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 10:58 | INFO | Parsing successful for google.com
+2026-01-22 | 10:58 | INFO | Normalization done for website(s)
+2026-01-22 | 10:58 | INFO | Initalizing http request for https://arif-iqbal.com/
+2026-01-22 | 10:58 | INFO | Successful http request for https://arif-iqbal.com/
+2026-01-22 | 10:58 | INFO | Initalizing status check for https://arif-iqbal.com/
+2026-01-22 | 10:58 | INFO | https://arif-iqbal.com/ status is WebStatus.UP
+2026-01-22 | 10:58 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 10:58 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 10:58 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 10:58 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 10:58 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 10:58 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 10:58 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 10:58 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 10:58 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 10:58 | INFO | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x107556070>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 10:58 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 10:58 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 10:58 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 10:58 | INFO | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x107556d00>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 10:58 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 10:58 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 10:58 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 10:58 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 10:58 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 10:58 | INFO | http://webartsy.online/ status is WebStatus.DEGRADED
+2026-01-22 | 10:58 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 10:58 | INFO | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 10:58 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 10:58 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 10:58 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 10:58 | INFO | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 10:58 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 10:58 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 10:58 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 10:58 | INFO | Successful http request for https://google.com
+2026-01-22 | 10:58 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 10:58 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 10:58 | INFO | 
+  total websites = 9, 
+  up = 2: [Website(URL='https://arif-iqbal.com/'), Website(URL='https://google.com')], 
+  down = 4: [Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  degraded = 3: [Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://webartsy.online/')], 
+  unknown = 0: []"
+  
+2026-01-22 | 11:04 | INFO | Initalizing loader
+2026-01-22 | 11:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:04 | INFO | Parsing successful for https://arif-iqbal.com/
+2026-01-22 | 11:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:04 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:04 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:04 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:04 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:04 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:04 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:04 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:04 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:04 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:04 | INFO | Parsing successful for google.com
+2026-01-22 | 11:04 | INFO | Normalization done for website(s)
+2026-01-22 | 11:04 | INFO | Initalizing http request for https://arif-iqbal.com/
+2026-01-22 | 11:04 | INFO | Successful http request for https://arif-iqbal.com/
+2026-01-22 | 11:04 | INFO | Initalizing status check for https://arif-iqbal.com/
+2026-01-22 | 11:04 | INFO | https://arif-iqbal.com/ status is WebStatus.UP
+2026-01-22 | 11:04 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 11:04 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 11:04 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 11:04 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 11:04 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 11:04 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 11:04 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 11:04 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 11:04 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 11:04 | INFO | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x10458ed90>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:04 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 11:04 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 11:04 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 11:05 | INFO | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x103a1ffa0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:05 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 11:05 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 11:05 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 11:05 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 11:05 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 11:05 | INFO | http://webartsy.online/ status is WebStatus.DEGRADED
+2026-01-22 | 11:05 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 11:05 | INFO | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:05 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 11:05 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 11:05 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 11:05 | INFO | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:05 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 11:05 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 11:05 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 11:05 | INFO | Successful http request for https://google.com
+2026-01-22 | 11:05 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 11:05 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 11:05 | INFO | 
+  total websites = 9, 
+  up = 2: [Website(URL='https://arif-iqbal.com/'), Website(URL='https://google.com')], 
+  down = 4: [Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  degraded = 3: [Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://webartsy.online/')], 
+  unknown = 0: []"
+  
+2026-01-22 | 11:06 | INFO | Initalizing loader
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for https://arif-iqbal.com/
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:06 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:06 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for google.com
+2026-01-22 | 11:06 | INFO | Normalization done for website(s)
+2026-01-22 | 11:06 | INFO | Initalizing http request for https://arif-iqbal.com/
+2026-01-22 | 11:06 | INFO | Successful http request for https://arif-iqbal.com/
+2026-01-22 | 11:06 | INFO | Initalizing status check for https://arif-iqbal.com/
+2026-01-22 | 11:06 | INFO | https://arif-iqbal.com/ status is WebStatus.UP
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 11:06 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 11:06 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 11:06 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 11:06 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 11:06 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 11:06 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 11:06 | INFO | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x10788dd90>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:06 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 11:06 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 11:06 | INFO | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x106cf5160>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:06 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 11:06 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 11:06 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 11:06 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 11:06 | INFO | http://webartsy.online/ status is WebStatus.DEGRADED
+2026-01-22 | 11:06 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 11:06 | INFO | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:06 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 11:06 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 11:06 | INFO | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:06 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 11:06 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 11:06 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 11:06 | INFO | Successful http request for https://google.com
+2026-01-22 | 11:06 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 11:06 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 11:06 | INFO | 
+  total websites = 9, 
+  up = 2: [Website(URL='https://arif-iqbal.com/'), Website(URL='https://google.com')], 
+  down = 4: [Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  degraded = 3: [Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://webartsy.online/')], 
+  unknown = 0: []"
+  
+2026-01-22 | 11:06 | INFO | Initalizing loader
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for https://arif-iqbal.com/
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:06 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:06 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:06 | INFO | Parsing successful for google.com
+2026-01-22 | 11:06 | INFO | Normalization done for website(s)
+2026-01-22 | 11:06 | INFO | Initalizing http request for https://arif-iqbal.com/
+2026-01-22 | 11:06 | INFO | Successful http request for https://arif-iqbal.com/
+2026-01-22 | 11:06 | INFO | Initalizing status check for https://arif-iqbal.com/
+2026-01-22 | 11:06 | INFO | https://arif-iqbal.com/ status is WebStatus.UP
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 11:06 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 11:06 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 11:06 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 11:06 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 11:06 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 11:06 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 11:06 | INFO | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x108697d90>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:06 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 11:06 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 11:06 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 11:07 | INFO | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x107aff160>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:07 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 11:07 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 11:07 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 11:07 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 11:07 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 11:07 | INFO | http://webartsy.online/ status is WebStatus.DEGRADED
+2026-01-22 | 11:07 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 11:07 | INFO | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:07 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 11:07 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 11:07 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 11:07 | INFO | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:07 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 11:07 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 11:07 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 11:07 | INFO | Successful http request for https://google.com
+2026-01-22 | 11:07 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 11:07 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 11:07 | INFO | 
+  total websites = 9, 
+  up = 2: [Website(URL='https://arif-iqbal.com/'), Website(URL='https://google.com')], 
+  down = 4: [Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  degraded = 3: [Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://webartsy.online/')], 
+  unknown = 0: []"
+  
+2026-01-22 | 11:07 | INFO | Initalizing loader
+2026-01-22 | 11:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:07 | INFO | Parsing successful for https://arif-iqbal.com/
+2026-01-22 | 11:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:07 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:07 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:07 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:07 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:07 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:07 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:07 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:07 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:07 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:07 | INFO | Parsing successful for google.com
+2026-01-22 | 11:07 | INFO | Normalization done for website(s)
+2026-01-22 | 11:07 | INFO | Initalizing http request for https://arif-iqbal.com/
+2026-01-22 | 11:07 | INFO | Successful http request for https://arif-iqbal.com/
+2026-01-22 | 11:07 | INFO | Initalizing status check for https://arif-iqbal.com/
+2026-01-22 | 11:07 | INFO | https://arif-iqbal.com/ status is WebStatus.UP
+2026-01-22 | 11:07 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 11:07 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 11:07 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 11:07 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 11:07 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 11:07 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 11:07 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 11:07 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 11:07 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 11:07 | INFO | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x101599d90>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:07 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 11:07 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 11:07 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 11:07 | INFO | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x100a01160>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:07 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 11:07 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 11:07 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 11:07 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 11:07 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 11:07 | INFO | http://webartsy.online/ status is WebStatus.DEGRADED
+2026-01-22 | 11:07 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 11:07 | INFO | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:07 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 11:07 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 11:07 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 11:07 | INFO | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:07 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 11:07 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 11:07 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 11:07 | INFO | Successful http request for https://google.com
+2026-01-22 | 11:07 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 11:07 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 11:07 | INFO | 
+  total websites = 9, 
+  up = 2: [Website(URL='https://arif-iqbal.com/'), Website(URL='https://google.com')], 
+  down = 4: [Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  degraded = 3: [Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://webartsy.online/')], 
+  unknown = 0: []"
+  
+2026-01-22 | 11:32 | INFO | Initalizing loader
+2026-01-22 | 11:32 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:32 | INFO | Parsing successful for https://arif-iqbal.com/
+2026-01-22 | 11:32 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:32 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:32 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:32 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:32 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:32 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:32 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:32 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:32 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:32 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:32 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:32 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:32 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:32 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:32 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:32 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:32 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:32 | INFO | Parsing successful for google.com
+2026-01-22 | 11:32 | INFO | Normalization done for website(s)
+2026-01-22 | 11:32 | INFO | Initalizing http request for https://arif-iqbal.com/
+2026-01-22 | 11:32 | INFO | Successful http request for https://arif-iqbal.com/
+2026-01-22 | 11:32 | INFO | Initalizing status check for https://arif-iqbal.com/
+2026-01-22 | 11:32 | INFO | https://arif-iqbal.com/ status is WebStatus.UP
+2026-01-22 | 11:32 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 11:32 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 11:32 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 11:32 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 11:32 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 11:32 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 11:32 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 11:32 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 11:32 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 11:32 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1048780d0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:32 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 11:32 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 11:32 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 11:32 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x104878e20>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 11:32 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 11:32 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 11:32 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 11:32 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 11:32 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 11:32 | INFO | http://webartsy.online/ status is WebStatus.DEGRADED
+2026-01-22 | 11:32 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 11:32 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:32 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 11:32 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 11:32 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 11:32 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 11:32 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 11:32 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 11:32 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 11:32 | INFO | Successful http request for https://google.com
+2026-01-22 | 11:32 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 11:32 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 11:32 | INFO | 
+  total websites = 9, 
+  up = 2: [Website(URL='https://arif-iqbal.com/'), Website(URL='https://google.com')], 
+  down = 4: [Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  degraded = 3: [Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://webartsy.online/')], 
+  unknown = 0: []"
+  
+2026-01-22 | 11:33 | INFO | Initalizing loader
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:33 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:33 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for google.com
+2026-01-22 | 11:33 | INFO | Normalization done for website(s)
+2026-01-22 | 11:33 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | WARNING | attempt 1 failed for 
+2026-01-22 | 11:33 | WARNING | Trying in 1.0 seconds
+2026-01-22 | 11:33 | INFO | Initalizing loader
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:33 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:33 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:33 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:33 | INFO | Parsing successful for google.com
+2026-01-22 | 11:33 | INFO | Normalization done for website(s)
+2026-01-22 | 11:33 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | WARNING | attempt 1 failed for 
+2026-01-22 | 11:33 | WARNING | Trying in 1.0 seconds
+2026-01-22 | 11:33 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | WARNING | attempt 2 failed for 
+2026-01-22 | 11:33 | WARNING | Trying in 1.0 seconds
+2026-01-22 | 11:33 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:33 | WARNING | attempt 3 failed for 
+2026-01-22 | 11:37 | INFO | Initalizing loader
+2026-01-22 | 11:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:37 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:37 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:37 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:37 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:37 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:37 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:37 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:37 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:37 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:37 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:37 | INFO | Parsing successful for google.com
+2026-01-22 | 11:37 | INFO | Normalization done for website(s)
+2026-01-22 | 11:37 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | WARNING | attempt 1 failed for 
+2026-01-22 | 11:37 | WARNING | Trying in 1.0 seconds
+2026-01-22 | 11:37 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | WARNING | attempt 2 failed for 
+2026-01-22 | 11:37 | WARNING | Trying in 1.0 seconds
+2026-01-22 | 11:37 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:37 | WARNING | attempt 3 failed for 
+2026-01-22 | 11:38 | INFO | Initalizing loader
+2026-01-22 | 11:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:38 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:38 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:38 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:38 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:38 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:38 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:38 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:38 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:38 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:38 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:38 | INFO | Parsing successful for google.com
+2026-01-22 | 11:38 | INFO | Normalization done for website(s)
+2026-01-22 | 11:38 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | WARNING | Attempt 1 failed!
+2026-01-22 | 11:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 11:38 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | WARNING | Attempt 2 failed!
+2026-01-22 | 11:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 11:38 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:38 | WARNING | Attempt 3 failed!
+2026-01-22 | 11:52 | INFO | Initalizing loader
+2026-01-22 | 11:52 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:52 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:52 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:52 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:52 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:52 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:52 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:52 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:52 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:52 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:52 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:52 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:52 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:52 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:52 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:52 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:52 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:52 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:52 | INFO | Parsing successful for google.com
+2026-01-22 | 11:52 | INFO | Normalization done for website(s)
+2026-01-22 | 11:52 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | WARNING | Attempt 1 failed!
+2026-01-22 | 11:52 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 11:52 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | WARNING | Attempt 2 failed!
+2026-01-22 | 11:52 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 11:52 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:52 | WARNING | Attempt 3 failed!
+2026-01-22 | 11:55 | INFO | Initalizing loader
+2026-01-22 | 11:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:55 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:55 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 11:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:55 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 11:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:55 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 11:55 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:55 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 11:55 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 11:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:55 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 11:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:55 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 11:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:55 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 11:55 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 11:55 | INFO | Parsing successful for google.com
+2026-01-22 | 11:55 | INFO | Normalization done for website(s)
+2026-01-22 | 11:55 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | WARNING | Attempt 1 failed!
+2026-01-22 | 11:55 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 11:55 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | WARNING | Attempt 2 failed!
+2026-01-22 | 11:55 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 11:55 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 11:55 | WARNING | Attempt 3 failed!
+2026-01-22 | 12:01 | INFO | Initalizing loader
+2026-01-22 | 12:01 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:01 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:01 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 12:01 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:01 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 12:01 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:01 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 12:01 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:01 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:01 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 12:01 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:01 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:01 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 12:01 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:01 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 12:01 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:01 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 12:01 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:01 | INFO | Parsing successful for google.com
+2026-01-22 | 12:01 | INFO | Normalization done for website(s)
+2026-01-22 | 12:01 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | WARNING | Attempt 1 failed!
+2026-01-22 | 12:01 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 12:01 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | WARNING | Attempt 2 failed!
+2026-01-22 | 12:01 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 12:01 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | WARNING | Server error 404 for https://arif-iqbal.com/main
+2026-01-22 | 12:01 | WARNING | Attempt 3 failed!
+2026-01-22 | 12:18 | INFO | Initalizing loader
+2026-01-22 | 12:18 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:18 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 12:18 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:18 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 12:18 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:18 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 12:18 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:18 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 12:18 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:18 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:18 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 12:18 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:18 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:18 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 12:18 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:18 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 12:18 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:18 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 12:18 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:18 | INFO | Parsing successful for google.com
+2026-01-22 | 12:18 | INFO | Normalization done for website(s)
+2026-01-22 | 12:18 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 12:18 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 12:19 | INFO | Initalizing loader
+2026-01-22 | 12:19 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:19 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 12:19 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:19 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 12:19 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:19 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 12:19 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:19 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 12:19 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:19 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:19 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 12:19 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:19 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:19 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 12:19 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:19 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 12:19 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:19 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 12:19 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:19 | INFO | Parsing successful for google.com
+2026-01-22 | 12:19 | INFO | Normalization done for website(s)
+2026-01-22 | 12:19 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 12:19 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 12:19 | INFO | Initalizing status check for 
+2026-01-22 | 12:25 | INFO | Initalizing loader
+2026-01-22 | 12:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:25 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 12:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:25 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 12:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:25 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 12:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:25 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 12:25 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:25 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 12:25 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:25 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 12:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:25 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 12:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:25 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 12:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:25 | INFO | Parsing successful for google.com
+2026-01-22 | 12:25 | INFO | Normalization done for website(s)
+2026-01-22 | 12:25 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 12:25 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 12:25 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 12:25 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 12:25 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 12:25 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 12:25 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 12:25 | WARNING | Attempt 1 failed!
+2026-01-22 | 12:25 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 12:25 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 12:25 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 12:25 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 12:25 | WARNING | Attempt 2 failed!
+2026-01-22 | 12:25 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 12:25 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 12:25 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 12:25 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 12:25 | WARNING | Attempt 3 failed!
+2026-01-22 | 12:50 | INFO | Initalizing loader
+2026-01-22 | 12:50 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:50 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 12:51 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:51 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 12:51 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:51 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 12:51 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:51 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 12:51 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:51 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:51 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 12:51 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 12:51 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:51 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 12:51 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:51 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 12:51 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:51 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 12:51 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 12:51 | INFO | Parsing successful for google.com
+2026-01-22 | 12:51 | INFO | Normalization done for website(s)
+2026-01-22 | 12:51 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 12:51 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:02 | INFO | Initalizing loader
+2026-01-22 | 13:02 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:02 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:02 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:02 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:02 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:02 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:02 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:02 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:02 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:02 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:02 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:02 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:02 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:02 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:02 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:02 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:02 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:02 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:02 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:02 | INFO | Parsing successful for google.com
+2026-01-22 | 13:02 | INFO | Normalization done for website(s)
+2026-01-22 | 13:02 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:02 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:02 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:04 | INFO | Initalizing loader
+2026-01-22 | 13:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:04 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:04 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:04 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:04 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:04 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:04 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:04 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:04 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:04 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:04 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:04 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:04 | INFO | Parsing successful for google.com
+2026-01-22 | 13:04 | INFO | Normalization done for website(s)
+2026-01-22 | 13:04 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:04 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:04 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:06 | INFO | Initalizing loader
+2026-01-22 | 13:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:06 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:06 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:06 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:06 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:06 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:06 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:06 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:06 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:06 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:06 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:06 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:06 | INFO | Parsing successful for google.com
+2026-01-22 | 13:06 | INFO | Normalization done for website(s)
+2026-01-22 | 13:06 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:06 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:06 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:07 | INFO | Initalizing loader
+2026-01-22 | 13:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:07 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:07 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:07 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:07 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:07 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:07 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:07 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:07 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:07 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:07 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:07 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:07 | INFO | Parsing successful for google.com
+2026-01-22 | 13:07 | INFO | Normalization done for website(s)
+2026-01-22 | 13:07 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:07 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:07 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:07 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:07 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:07 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:07 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:07 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:07 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:07 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:07 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:07 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:07 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:07 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:07 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:07 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:07 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:07 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:09 | INFO | Initalizing loader
+2026-01-22 | 13:09 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:09 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:09 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:09 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:09 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:09 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:09 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:09 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:09 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:09 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:09 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:09 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:09 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:09 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:09 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:09 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:09 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:09 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:09 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:09 | INFO | Parsing successful for google.com
+2026-01-22 | 13:09 | INFO | Normalization done for website(s)
+2026-01-22 | 13:09 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:09 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:09 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:09 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:09 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:09 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:09 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:09 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:09 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:09 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:09 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:09 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:09 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:09 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:09 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:09 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:09 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:09 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:10 | INFO | Initalizing loader
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:10 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:10 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for google.com
+2026-01-22 | 13:10 | INFO | Normalization done for website(s)
+2026-01-22 | 13:10 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:10 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:10 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:10 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:10 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:10 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:10 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:10 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:10 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:10 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:10 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:10 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:10 | INFO | Initalizing loader
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:10 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:10 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:10 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:10 | INFO | Parsing successful for google.com
+2026-01-22 | 13:10 | INFO | Normalization done for website(s)
+2026-01-22 | 13:10 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:10 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:10 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:10 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:10 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:10 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:10 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:10 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:10 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:10 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:10 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:10 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:10 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:11 | INFO | Initalizing loader
+2026-01-22 | 13:11 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:11 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:11 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:11 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:11 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:11 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:11 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:11 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:11 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:11 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:11 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:11 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:11 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:11 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:11 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:11 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:11 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:11 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:11 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:11 | INFO | Parsing successful for google.com
+2026-01-22 | 13:11 | INFO | Normalization done for website(s)
+2026-01-22 | 13:11 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:11 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:11 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:11 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:11 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:11 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:11 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:11 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:11 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:11 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:11 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:11 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:11 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:11 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:11 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:11 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:11 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:11 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:23 | INFO | Initalizing loader
+2026-01-22 | 13:23 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:23 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:23 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:23 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:23 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:23 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:23 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:23 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:23 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:23 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:23 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:23 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:23 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:23 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:23 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:23 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:23 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:23 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:23 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:23 | INFO | Parsing successful for google.com
+2026-01-22 | 13:23 | INFO | Normalization done for website(s)
+2026-01-22 | 13:23 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:23 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:23 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:23 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:23 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:23 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:23 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:23 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:23 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:23 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:23 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:23 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:23 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:23 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:23 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:23 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:23 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:23 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:24 | INFO | Initalizing loader
+2026-01-22 | 13:24 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:24 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:24 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:24 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:24 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:24 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:24 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:24 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:24 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:24 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:24 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:24 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:24 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:24 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:24 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:24 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:24 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:24 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:24 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:24 | INFO | Parsing successful for google.com
+2026-01-22 | 13:24 | INFO | Normalization done for website(s)
+2026-01-22 | 13:24 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:24 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:24 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:24 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:24 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:24 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:24 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:24 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:24 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:24 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:24 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:24 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:24 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:24 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:24 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:24 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:24 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:24 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:25 | INFO | Initalizing loader
+2026-01-22 | 13:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:25 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:25 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:25 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:25 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:25 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:25 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:25 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:25 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:25 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:25 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:25 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:25 | INFO | Parsing successful for google.com
+2026-01-22 | 13:25 | INFO | Normalization done for website(s)
+2026-01-22 | 13:25 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:25 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:25 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:25 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:25 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:25 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:25 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:25 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:25 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:25 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:25 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:25 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:25 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:25 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:25 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:25 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:25 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:25 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:25 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 13:25 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 13:25 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:25 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:25 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:25 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:25 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:25 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:25 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:25 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:25 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:25 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:25 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:25 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:25 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:25 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:25 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 13:25 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 13:25 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:25 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1031c1640>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:25 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:25 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:25 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:25 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1031c1d30>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:25 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:25 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:25 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:25 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1031c1d30>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:25 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:27 | INFO | Initalizing loader
+2026-01-22 | 13:27 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:27 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:27 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:27 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:27 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:27 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:27 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:27 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:27 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:27 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:27 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:27 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:27 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:27 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:27 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:27 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:27 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:27 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:27 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:27 | INFO | Parsing successful for google.com
+2026-01-22 | 13:27 | INFO | Normalization done for website(s)
+2026-01-22 | 13:27 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:27 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:27 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:27 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:27 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:27 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:27 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:27 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:27 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:27 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:27 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:27 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:27 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:27 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:27 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:27 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:27 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:27 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:27 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 13:27 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 13:27 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:27 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:27 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:27 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:27 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:27 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:27 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:27 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:27 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:27 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:27 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:27 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:27 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:27 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:27 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 13:27 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 13:27 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:27 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1078d16d0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:27 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:27 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:27 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:27 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1078d1dc0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:27 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:27 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:28 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1078d1dc0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:28 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:28 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 13:28 | INFO | http://example.com:81 status is WebStatus.DEGRADED
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 13:28 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x1078d1580>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:28 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:28 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 13:28 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x1079427c0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:28 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:28 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 13:28 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x107947130>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:28 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:28 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 13:28 | INFO | http://example.com:71 status is WebStatus.DEGRADED
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 13:28 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 13:28 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 13:28 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:28 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 13:28 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 13:28 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 13:28 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:28 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 13:28 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 13:28 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 13:28 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:28 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 13:28 | INFO | http://webartsy.online/ status is WebStatus.DEGRADED
+2026-01-22 | 13:28 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 13:28 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:28 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:28 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:28 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 13:28 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:28 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:28 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:28 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 13:28 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:28 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:28 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 13:28 | INFO | https://httpstat.us/404 status is WebStatus.DEGRADED
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 13:28 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:28 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:28 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 13:28 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:28 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:28 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:28 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 13:28 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:28 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:28 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 13:28 | INFO | http://httpstat.us/503 status is WebStatus.DEGRADED
+2026-01-22 | 13:28 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 13:28 | INFO | Successful http request for https://google.com
+2026-01-22 | 13:28 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 13:28 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 13:28 | INFO | 
+  total websites = 9, 
+  up = 1: [Website(URL='https://google.com')], 
+  down = 0: [], 
+  degraded = 8: [Website(URL='https://arif-iqbal.com/main'), Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='http://webartsy.online/'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  unknown = 0: []"
+  
+2026-01-22 | 13:31 | INFO | Initalizing loader
+2026-01-22 | 13:31 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:31 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:31 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:31 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:31 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:31 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:31 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:31 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:31 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:31 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:31 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:31 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:31 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:31 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:31 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:31 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:31 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:31 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:31 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:31 | INFO | Parsing successful for google.com
+2026-01-22 | 13:31 | INFO | Normalization done for website(s)
+2026-01-22 | 13:31 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:31 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:31 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:31 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:31 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:31 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:31 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:31 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:31 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:31 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:31 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:31 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:31 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:31 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:31 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:31 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 13:31 | INFO | http://www.webartsy.site/ status is WebStatus.DEGRADED
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:31 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:31 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:31 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:31 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:31 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:31 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:31 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:31 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:31 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:31 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:31 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:31 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 13:31 | INFO | http://webartsy.store/ status is WebStatus.DEGRADED
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:31 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1082e4640>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:31 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:31 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:31 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1082e4d30>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:31 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:31 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:31 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1082e4d30>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:31 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:31 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 13:31 | INFO | http://example.com:81 status is WebStatus.DEGRADED
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 13:31 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x1082e44f0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:31 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:31 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:31 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 13:32 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x108348730>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:32 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:32 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:32 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 13:32 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x10834e0a0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:32 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:32 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 13:32 | INFO | http://example.com:71 status is WebStatus.DEGRADED
+2026-01-22 | 13:32 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 13:32 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 13:32 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 13:32 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:32 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:32 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 13:32 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 13:32 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 13:32 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:32 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:32 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 13:32 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 13:32 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 13:32 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:32 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 13:32 | INFO | http://webartsy.online/ status is WebStatus.DEGRADED
+2026-01-22 | 13:32 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 13:32 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:32 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:32 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:32 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 13:32 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:32 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:32 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:32 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 13:32 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:32 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:32 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 13:32 | INFO | https://httpstat.us/404 status is WebStatus.DEGRADED
+2026-01-22 | 13:32 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 13:32 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:32 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:32 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:32 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 13:32 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:32 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:32 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:32 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 13:32 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:32 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:32 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 13:32 | INFO | http://httpstat.us/503 status is WebStatus.DEGRADED
+2026-01-22 | 13:32 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 13:32 | INFO | Successful http request for https://google.com
+2026-01-22 | 13:32 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 13:32 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 13:32 | INFO | 
+  total websites = 9, 
+  up = 1: [Website(URL='https://google.com')], 
+  down = 0: [], 
+  degraded = 8: [Website(URL='https://arif-iqbal.com/main'), Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='http://webartsy.online/'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  unknown = 0: []"
+  
+2026-01-22 | 13:37 | INFO | Initalizing loader
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:37 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:37 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for google.com
+2026-01-22 | 13:37 | INFO | Normalization done for website(s)
+2026-01-22 | 13:37 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:37 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:37 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:37 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:37 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:37 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:37 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:37 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:37 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:37 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:37 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:37 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:37 | INFO | Initalizing loader
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:37 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:37 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:37 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:37 | INFO | Parsing successful for google.com
+2026-01-22 | 13:37 | INFO | Normalization done for website(s)
+2026-01-22 | 13:37 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:37 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:37 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:37 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:37 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:37 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:37 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:37 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:37 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:37 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:37 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:37 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:37 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:38 | INFO | Initalizing loader
+2026-01-22 | 13:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:38 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 13:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:38 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 13:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:38 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 13:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:38 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 13:38 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:38 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 13:38 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 13:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:38 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 13:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:38 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 13:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:38 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 13:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 13:38 | INFO | Parsing successful for google.com
+2026-01-22 | 13:38 | INFO | Normalization done for website(s)
+2026-01-22 | 13:38 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 13:38 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 13:38 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 13:38 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:38 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:38 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:38 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:38 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:38 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:38 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 13:38 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 13:38 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 13:38 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:38 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 13:38 | INFO | http://www.webartsy.site/ status is WebStatus.DOWN
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:38 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:38 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:38 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:38 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:38 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:38 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 13:38 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 13:38 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 13:38 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:38 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 13:38 | INFO | http://webartsy.store/ status is WebStatus.DOWN
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:38 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x10d730640>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:38 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:38 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x10d730d30>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:38 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 13:38 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x10d730d30>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:38 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:38 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 13:38 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 13:38 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 13:39 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x10d7304f0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:39 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:39 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 13:39 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x10d794730>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:39 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:39 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 13:39 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x10d7990a0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 13:39 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:39 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 13:39 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 13:39 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 13:39 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 13:39 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 13:39 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:39 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 13:39 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 13:39 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 13:39 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:39 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 13:39 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 13:39 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 13:39 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:39 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 13:39 | INFO | http://webartsy.online/ status is WebStatus.DOWN
+2026-01-22 | 13:39 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 13:39 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:39 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:39 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 13:39 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:39 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:39 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 13:39 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:39 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:39 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 13:39 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 13:39 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 13:39 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:39 | WARNING | Attempt 1 failed!
+2026-01-22 | 13:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:39 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 13:39 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:39 | WARNING | Attempt 2 failed!
+2026-01-22 | 13:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 13:39 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 13:39 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 13:39 | WARNING | Attempt 3 failed!
+2026-01-22 | 13:39 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 13:39 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 13:39 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 13:39 | INFO | Successful http request for https://google.com
+2026-01-22 | 13:39 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 13:39 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 13:39 | INFO | 
+  total websites = 9, 
+  up = 1: [Website(URL='https://google.com')], 
+  down = 7: [Website(URL='http://www.webartsy.site/'), Website(URL='http://webartsy.store/'), Website(URL='http://example.com:81'), Website(URL='http://example.com:71'), Website(URL='http://webartsy.online/'), Website(URL='https://httpstat.us/404'), Website(URL='http://httpstat.us/503')], 
+  degraded = 1: [Website(URL='https://arif-iqbal.com/main')], 
+  unknown = 0: []"
+  
+2026-01-22 | 14:35 | INFO | Initalizing loader
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 14:35 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 14:35 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for google.com
+2026-01-22 | 14:35 | INFO | Normalization done for website(s)
+2026-01-22 | 14:35 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 14:35 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 14:35 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 14:35 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 14:35 | INFO | Initalizing loader
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 14:35 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 14:35 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 14:35 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:35 | INFO | Parsing successful for google.com
+2026-01-22 | 14:35 | INFO | Normalization done for website(s)
+2026-01-22 | 14:35 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 14:35 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 14:35 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 14:35 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 14:35 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 14:35 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 14:35 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 14:35 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:35 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:35 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 14:35 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 14:35 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 14:35 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:35 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:35 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 14:35 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 14:35 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 14:35 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:35 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 14:35 | INFO | http://www.webartsy.site/ status is WebStatus.DOWN
+2026-01-22 | 14:35 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 14:35 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 14:35 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 14:35 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:35 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:35 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 14:35 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 14:35 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 14:35 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:35 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:35 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 14:35 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 14:35 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 14:35 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:35 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 14:35 | INFO | http://webartsy.store/ status is WebStatus.DOWN
+2026-01-22 | 14:35 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 14:35 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1082e20a0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:35 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:35 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:35 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 14:35 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1082e2c10>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:35 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:35 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:35 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 14:36 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x1082e27c0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:36 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:36 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 14:36 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 14:36 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 14:36 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x1082e2160>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:36 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:36 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:36 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 14:36 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x108346580>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:36 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:36 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:36 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 14:36 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x108346eb0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:36 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:36 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 14:36 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 14:36 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 14:36 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 14:36 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 14:36 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:36 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:36 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 14:36 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 14:36 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 14:36 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:36 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:36 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 14:36 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 14:36 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 14:36 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:36 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 14:36 | INFO | http://webartsy.online/ status is WebStatus.DOWN
+2026-01-22 | 14:36 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 14:36 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:36 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:36 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:36 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 14:36 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:36 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:36 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:36 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 14:36 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:36 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:36 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 14:36 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 14:36 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 14:36 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:36 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:36 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:36 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 14:36 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:36 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:36 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:36 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 14:36 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:36 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:36 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 14:36 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 14:36 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 14:36 | INFO | Successful http request for https://google.com
+2026-01-22 | 14:36 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 14:36 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 14:38 | INFO | Initalizing loader
+2026-01-22 | 14:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:38 | INFO | Parsing successful for https://arif-iqbal.com/main
+2026-01-22 | 14:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:38 | INFO | Parsing successful for http://www.webartsy.site/
+2026-01-22 | 14:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:38 | INFO | Parsing successful for http://webartsy.store/
+2026-01-22 | 14:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:38 | INFO | Parsing successful for http://example.com:81
+2026-01-22 | 14:38 | WARNING | Parsing failed for http://example.com:81. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 14:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:38 | INFO | Parsing successful for http://example.com:71
+2026-01-22 | 14:38 | WARNING | Parsing failed for http://example.com:71. Reason: [Errno 8] nodename nor servname provided, or not known
+2026-01-22 | 14:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:38 | INFO | Parsing successful for http://webartsy.online/
+2026-01-22 | 14:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:38 | INFO | Parsing successful for https://httpstat.us/404
+2026-01-22 | 14:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:38 | INFO | Parsing successful for http://httpstat.us/503
+2026-01-22 | 14:38 | INFO | Initalizing normalization of website(s)
+2026-01-22 | 14:38 | INFO | Parsing successful for google.com
+2026-01-22 | 14:38 | INFO | Normalization done for website(s)
+2026-01-22 | 14:38 | INFO | Initalizing http request for https://arif-iqbal.com/main
+2026-01-22 | 14:38 | INFO | Successful http request for https://arif-iqbal.com/main
+2026-01-22 | 14:38 | INFO | Initalizing status check for https://arif-iqbal.com/main
+2026-01-22 | 14:38 | INFO | https://arif-iqbal.com/main status is WebStatus.DEGRADED
+2026-01-22 | 14:38 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 14:38 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 14:38 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 14:38 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:38 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 14:38 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 14:38 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 14:38 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:38 | INFO | Initalizing http request for http://www.webartsy.site/
+2026-01-22 | 14:38 | INFO | Successful http request for http://www.webartsy.site/
+2026-01-22 | 14:38 | WARNING | http://www.webartsy.site/: domain has been suspended
+2026-01-22 | 14:38 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:38 | INFO | Initalizing status check for http://www.webartsy.site/
+2026-01-22 | 14:38 | INFO | http://www.webartsy.site/ status is WebStatus.DOWN
+2026-01-22 | 14:38 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 14:38 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 14:38 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 14:38 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:38 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 14:38 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 14:38 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 14:38 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:38 | INFO | Initalizing http request for http://webartsy.store/
+2026-01-22 | 14:38 | INFO | Successful http request for http://webartsy.store/
+2026-01-22 | 14:38 | WARNING | http://webartsy.store/: domain has been suspended
+2026-01-22 | 14:38 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:38 | INFO | Initalizing status check for http://webartsy.store/
+2026-01-22 | 14:38 | INFO | http://webartsy.store/ status is WebStatus.DOWN
+2026-01-22 | 14:38 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 14:38 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x105fc2640>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:38 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:38 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 14:38 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x105fc2d30>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:38 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:38 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:38 | INFO | Initalizing http request for http://example.com:81
+2026-01-22 | 14:39 | WARNING | Http request failed for http://example.com:81. Reason: HTTPConnectionPool(host='example.com', port=81): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=81) at 0x105fc2d30>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:39 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:39 | INFO | Initalizing status check for http://example.com:81
+2026-01-22 | 14:39 | INFO | http://example.com:81 status is WebStatus.DOWN
+2026-01-22 | 14:39 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 14:39 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x105fc24f0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:39 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:39 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 14:39 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x106026730>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:39 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:39 | INFO | Initalizing http request for http://example.com:71
+2026-01-22 | 14:39 | WARNING | Http request failed for http://example.com:71. Reason: HTTPConnectionPool(host='example.com', port=71): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='example.com', port=71) at 0x10602b0a0>, 'Connection to example.com timed out. (connect timeout=3)'))
+2026-01-22 | 14:39 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:39 | INFO | Initalizing status check for http://example.com:71
+2026-01-22 | 14:39 | INFO | http://example.com:71 status is WebStatus.DOWN
+2026-01-22 | 14:39 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 14:39 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 14:39 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 14:39 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:39 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 14:39 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 14:39 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 14:39 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:39 | INFO | Initalizing http request for http://webartsy.online/
+2026-01-22 | 14:39 | INFO | Successful http request for http://webartsy.online/
+2026-01-22 | 14:39 | WARNING | http://webartsy.online/: domain has been suspended
+2026-01-22 | 14:39 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:39 | INFO | Initalizing status check for http://webartsy.online/
+2026-01-22 | 14:39 | INFO | http://webartsy.online/ status is WebStatus.DOWN
+2026-01-22 | 14:39 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 14:39 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:39 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:39 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 14:39 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:39 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:39 | INFO | Initalizing http request for https://httpstat.us/404
+2026-01-22 | 14:39 | WARNING | Http request failed for https://httpstat.us/404. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:39 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:39 | INFO | Initalizing status check for https://httpstat.us/404
+2026-01-22 | 14:39 | INFO | https://httpstat.us/404 status is WebStatus.DOWN
+2026-01-22 | 14:39 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 14:39 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:39 | WARNING | Attempt 1 failed!
+2026-01-22 | 14:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:39 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 14:39 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:39 | WARNING | Attempt 2 failed!
+2026-01-22 | 14:39 | WARNING | Trying in 1.0 seconds!
+2026-01-22 | 14:39 | INFO | Initalizing http request for http://httpstat.us/503
+2026-01-22 | 14:39 | WARNING | Http request failed for http://httpstat.us/503. Reason: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-01-22 | 14:39 | WARNING | Attempt 3 failed!
+2026-01-22 | 14:39 | INFO | Initalizing status check for http://httpstat.us/503
+2026-01-22 | 14:39 | INFO | http://httpstat.us/503 status is WebStatus.DOWN
+2026-01-22 | 14:39 | INFO | Initalizing http request for https://google.com
+2026-01-22 | 14:39 | INFO | Successful http request for https://google.com
+2026-01-22 | 14:39 | INFO | Initalizing status check for https://google.com
+2026-01-22 | 14:39 | INFO | https://google.com status is WebStatus.UP
+2026-01-22 | 14:39 | INFO | 
+  total websites = 9, 
+  up = 1: ['https://google.com'], 
+  down = 7: ['http://www.webartsy.site/', 'http://webartsy.store/', 'http://example.com:81', 'http://example.com:71', 'http://webartsy.online/', 'https://httpstat.us/404', 'http://httpstat.us/503'], 
+  degraded = 1: ['https://arif-iqbal.com/main'], 
+  unknown = 0: []"
+  

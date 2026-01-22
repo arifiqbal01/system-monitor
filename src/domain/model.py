@@ -55,6 +55,11 @@ class WebsiteFailureTypes(Enum):
     INVALID_URL = auto()
     UNKNOWN = auto()
 
+@dataclass
+class WebsiteFailure:
+    type: WebsiteFailureTypes
+    message: Optional[str] = None
+
 class SystemFailureTypes(Enum):
     NONE = auto()
     InvalidConfig = auto()
@@ -63,11 +68,6 @@ class SystemFailureTypes(Enum):
     ParseError = auto()
     InternalError = auto()
     Misconfiguration = auto()
-
-@dataclass
-class WebsiteFailure:
-    type: WebsiteFailureTypes
-    message: Optional[str] = None
 
 @dataclass
 class SystemFailure:
