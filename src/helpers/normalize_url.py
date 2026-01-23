@@ -5,7 +5,7 @@ from .logger import logger
 
 def normalize_url(website):
   try:
-    logger.info(f"Initalizing normalization of website(s)")
+    logger.info(f"Initalizing normalization for {website}")
     p = urlparse(website)
     logger.info(f"Parsing successful for {website}")
     if p.scheme and p.netloc and not p.path:
@@ -30,4 +30,5 @@ def normalize_url(website):
     WebsiteFailure(type=WebsiteFailureTypes.DNS, message=e)
     logger.warning(f"Parsing failed for {website}. Reason: {e}")
   
+  logger.info(f"Normalization done for {website}")
   return  Website(URL=website)

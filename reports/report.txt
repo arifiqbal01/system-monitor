@@ -1,29 +1,18 @@
-Log Summary
+Report Summary
 ----------------------
 
-UP: 2 
-DOWN: 4 
-DEGRADED: 3 
-UNKNOWN: 0 
+Total: 4 
+UP: 1 
+DOWN: 1 
+DEGRADED: 2 
 
-Websites UP
-- https://arif-iqbal.com/ 
+UP
 - https://google.com 
 
-Websites DOWN
-- http://example.com:81 error: Hostname name or service not known 
-- http://example.com:71 error: Hostname name or service not known 
-- https://httpstat.us/404 error: Connection Refused Error 
-- http://httpstat.us/503 error: Connection Refused Error 
+DOWN
+- http://httpstat.us/503 
 
-Websites DEGRADED
-- http://www.webartsy.site/ error: domain has been suspended 
-- http://webartsy.store/ error: domain has been suspended 
-- http://webartsy.online/ error: domain has been suspended 
-
-
-No system errors found. 
-
-
-No system warning found. 
+DEGRADED
+- https://arif-iqbal.com/main 
+- http://www.webartsy.site/ 
 
