@@ -29,16 +29,8 @@ class ResultProcessor:
 
         for report in reports:
 
-            # Get previous report
-            previous = self.report_repository.get_latest(
-                report.website
-            )
-
             # Evaluate notifications
-            events = self.notification_evaluator.evaluate(
-                previous=previous,
-                current=report,
-            )
+            events = self.notification_evaluator.evaluate(report)
 
             # Save report
             if isinstance(report, WordpressReport):

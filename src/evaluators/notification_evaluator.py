@@ -19,55 +19,36 @@ class NotificationEvaluator:
 
     def evaluate(
         self,
-        previous: WebsiteReport | None,
         current: WebsiteReport,
     ) -> list[NotificationEvent]:
 
         events: list[NotificationEvent] = []
 
         #
-        # First observation
+        # Website Health
         #
-        if previous is None:
-            return events
+        if current.status == "DOWN":
 
-        #
-        # Status Changes
-        #
-        if previous.status != current.status:
-
-            if current.status == "DOWN":
-
-                events.append(
-                    NotificationEvent(
-                        event=NotificationEventType.WEBSITE_DOWN,
-                        report=current,
-                        message=f"{current.website.url} is DOWN",
-                    )
+            events.append(
+                NotificationEvent(
+                    event=NotificationEventType.WEBSITE_DOWN,
+                    report=current,
+                    message=f"{current.website.url} is DOWN",
                 )
+            )
 
-            elif current.status == "UP":
+        elif current.status == "DEGRADED":
 
-                events.append(
-                    NotificationEvent(
-                        event=NotificationEventType.WEBSITE_RECOVERED,
-                        report=current,
-                        message=f"{current.website.url} has recovered",
-                    )
+            events.append(
+                NotificationEvent(
+                    event=NotificationEventType.WEBSITE_DEGRADED,
+                    report=current,
+                    message=f"{current.website.url} is DEGRADED",
                 )
-
-            elif current.status == "DEGRADED":
-
-                events.append(
-                    NotificationEvent(
-                        event=NotificationEventType.WEBSITE_DEGRADED,
-                        report=current,
-                        message=f"{current.website.url} is DEGRADED",
-                    )
-                )
+            )
 
         #
-        # WordPress Rules
+        # WordPress Health
         #
         if isinstance(current, WordpressReport):
 
